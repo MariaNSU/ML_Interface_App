@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Search СНД2000</ShortName>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://wwwsnd.inp.nsk.su/trac/chrome/common/trac.ico</Image>
+  <Url type="text/html" template="https://wwwsnd.inp.nsk.su/trac/search?q={searchTerms}&amp;page={startPage}"/>
+</OpenSearchDescription>

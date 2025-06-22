@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+
+  <head>
+    <title>
+      TracGuide – СНД2000
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+          <link rel="search" href="/trac/search" />
+          <link rel="help" href="/trac/wiki/TracGuide" />
+          <link rel="alternate" href="/trac/wiki/TracGuide?format=txt" type="text/x-trac-wiki" title="Plain Text" />
+          <link rel="start" href="/trac/wiki" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/trac.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/wiki.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/tracdragdrop/tracdragdrop.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/movie/js/skin/minimalist.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/tags/css/tractags.css" type="text/css" />
+          <link rel="icon" href="/trac/chrome/common/trac.ico" type="image/x-icon" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+      <link type="application/opensearchdescription+xml" rel="search" href="/trac/search/opensearch" title="Search СНД2000" />
+    <script type="text/javascript">
+      var _tracdragdrop={"base_url":"/trac/","can_create":true,"max_size":52428800,"new_url":"/trac/tracdragdrop/new/wiki/TracGuide","no_image_msg":"No image \"%(id)s\" attached to %(parent)s","parent_name":"TracGuide","raw_parent_url":"/trac/raw-attachment/wiki/TracGuide/"};
+      var form_token="12b90cfd65a9cc6f8423a32a";
+    </script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/babel.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/trac.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/search.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/folding.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tracdragdrop/tracdragdrop.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/movie/js/flowplayer.min.js"></script>
+    <script type="text/javascript">
+      jQuery("#trac-noscript").remove();
+      jQuery(document).ready(function($) {
+        $(".trac-autofocus").focus();
+        $(".trac-target-new").attr("target", "_blank");
+        if ($.ui) { /* is jquery-ui added? */
+          $(".trac-datepicker:not([readonly])").prop("autocomplete", "off").datepicker();
+          $(".trac-datetimepicker:not([readonly])").prop("autocomplete", "off").datetimepicker();
+          $("#main").addClass("trac-nodatetimehint");
+        }
+        $(".trac-disable").disableSubmit(".trac-disable-determinant");
+        setTimeout(function() { $(".trac-scroll").scrollToTop() }, 1);
+        $(".trac-disable-on-submit").disableOnSubmit();
+      });
+    </script>
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <link rel="alternate" type="application/x-wiki" href="/trac/wiki/TracGuide?action=edit" title="Edit this page" />
+    <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $("#content").find("h1,h2,h3,h4,h5,h6").addAnchor(_("Link to this section"));
+        $("#content").find(".wikianchor").each(function() {
+          $(this).addAnchor(babel.format(_("Link to #%(id)s"), {id: $(this).attr('id')}));
+        });
+        $(".foldable").enableFolding(true, true);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="banner">
+      <div id="header">
+        <h1><a href="">СНД2000</a></h1>
+      </div>
+      <form id="search" action="/trac/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first">logged in as <span class="trac-author-user">petrovam</span></li><li><form action="/trac/logout" class="trac-logout" id="logout" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="12b90cfd65a9cc6f8423a32a" /></div><div><button type="submit" name="logout">Logout</button></div></form></li><li><a href="/trac/wiki/TracGuide">Help/Guide</a></li><li><a href="/trac/about">About Trac</a></li><li><a href="/trac/prefs">Preferences</a></li><li class="last"><a href="/trac/rpc">API</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first active"><a href="/trac/wiki">Wiki</a></li><li><a href="/trac/timeline">Timeline</a></li><li><a href="/trac/browser">Browse Source</a></li><li><a href="/trac/report">View Tickets</a></li><li><a href="/trac/newticket">New Ticket</a></li><li><a href="/trac/search">Search</a></li><li><a href="/trac/roadmap">Roadmap</a></li><li class="last"><a href="/trac/tags">Tags</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="pagepath" class="noprint">
+  <a class="pathentry first" title="View WikiStart" href="/trac/wiki">wiki:</a><a class="pathentry" href="/trac/wiki/TracGuide" title="View TracGuide">TracGuide</a>
+</div>
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="first"><a href="/trac/wiki/WikiStart">Start Page</a></li><li><a href="/trac/wiki/TitleIndex">Index</a></li><li class="last"><a href="/trac/wiki/TracGuide?action=history">History</a></li>
+        </ul>
+        <hr />
+      </div>
+    <div id="content" class="wiki">
+      <div class="wikipage searchable">
+        
+          <div id="wikipage" class="trac-content"><h1 id="TheTracUserandAdministrationGuide">The Trac User and Administration Guide</h1>
+<p>
+</p><div class="wiki-toc"><h4>Table of Contents</h4><ul><li class="active"><a class="False" href="/trac/wiki/TracGuide">Index</a></li><li class="False"><a class="False" href="/trac/wiki/TracInstall">Installation</a></li><li class="False"><a class="False" href="/trac/wiki/TracInterfaceCustomization">Customization</a></li><li class="False"><a class="False" href="/trac/wiki/TracPlugins">Plugins</a></li><li class="False"><a class="False" href="/trac/wiki/TracUpgrade">Upgrading</a></li><li class="False"><a class="False" href="/trac/wiki/TracIni">Configuration</a></li><li class="False"><a class="False" href="/trac/wiki/TracAdmin">Administration</a></li><li class="False"><a class="False" href="/trac/wiki/TracBackup">Backup</a></li><li class="False"><a class="False" href="/trac/wiki/TracLogging">Logging</a></li><li class="False"><a class="False" href="/trac/wiki/TracPermissions">Permissions</a></li><li class="False"><a class="False" href="/trac/wiki/TracWiki">The Wiki</a></li><li class="False"><a class="False" href="/trac/wiki/WikiFormatting">Wiki Formatting</a></li><li class="False"><a class="False" href="/trac/wiki/TracTimeline">Timeline</a></li><li class="False"><a class="False" href="/trac/wiki/TracBrowser">Repository Browser</a></li><li class="False"><a class="False" href="/trac/wiki/TracRevisionLog">Revision Log</a></li><li class="False"><a class="False" href="/trac/wiki/TracChangeset">Changesets</a></li><li class="False"><a class="False" href="/trac/wiki/TracTickets">Tickets</a></li><li class="False"><a class="False" href="/trac/wiki/TracWorkflow">Workflow</a></li><li class="False"><a class="False" href="/trac/wiki/TracRoadmap">Roadmap</a></li><li class="False"><a class="False" href="/trac/wiki/TracQuery">Ticket Queries</a></li><li class="False"><a class="False" href="/trac/wiki/TracBatchModify">Batch Modify</a></li><li class="False"><a class="False" href="/trac/wiki/TracReports">Reports</a></li><li class="False"><a class="False" href="/trac/wiki/TracRss">RSS Support</a></li><li class="False"><a class="False" href="/trac/wiki/TracNotification">Notification</a></li></ul></div><p>
+</p>
+<span style="font-size:90%"><em>The <a class="wiki" href="/trac/wiki/TracGuide">TracGuide</a> is meant to serve as a starting point for all documentation regarding Trac usage and development. The guide is a free document, a collaborative effort, and a part of the <a class="ext-link" href="https://trac.edgewall.org/intertrac/" title="The Trac Project"><span class="icon">​</span>Trac Project</a> itself.</em></span><h2 id="Introduction">Introduction</h2>
+<p>
+Trac is an enhanced wiki and issue tracking system for software development projects. Trac uses a minimalistic approach to web-based software project management. It helps developers write great software while staying out of the way. Trac should impose as little as possible on a team's established development process and policies.
+</p>
+<p>
+It provides an interface to Subversion as well as other version control systems, an integrated Wiki and convenient reporting facilities.
+</p>
+<p>
+Trac allows wiki markup in issue descriptions and commit messages, creating links and seamless references between bugs, tasks, changesets, files and wiki pages. A timeline shows all current and past project events in order, making the acquisition of an overview of the project and tracking progress very easy. The roadmap shows the road ahead, listing the upcoming milestones.
+</p>
+<h2 id="UserGuide">User Guide</h2>
+<ul><li>Using the Wiki subsystem:
+<ul><li><a class="wiki" href="/trac/wiki/TracWiki">TracWiki</a> — How to use the built-in Wiki.
+</li><li><a class="wiki" href="/trac/wiki/WikiFormatting">WikiFormatting</a> — Reference to the wiki syntax.
+</li></ul></li><li>Using the Version Control subsystem:
+<ul><li><a class="wiki" href="/trac/wiki/TracBrowser">TracBrowser</a> — Browsing source code with Trac.
+</li><li><a class="wiki" href="/trac/wiki/TracChangeset">TracChangeset</a> — Viewing changes to source code.
+</li><li><a class="wiki" href="/trac/wiki/TracRevisionLog">TracRevisionLog</a> — Viewing change history.
+</li></ul></li><li>Using the Ticket subsystem:
+<ul><li><a class="wiki" href="/trac/wiki/TracTickets">TracTickets</a> — Using the issue tracker.
+</li><li><a class="wiki" href="/trac/wiki/TracRoadmap">TracRoadmap</a> — Tracking project progress.
+</li><li><a class="wiki" href="/trac/wiki/TracReports">TracReports</a> — Writing and using reports.
+</li><li><a class="wiki" href="/trac/wiki/TracQuery">TracQuery</a> — Executing custom ticket queries.
+</li><li><a class="wiki" href="/trac/wiki/TracBatchModify">TracBatchModify</a> - Modifying several tickets in one request.
+</li></ul></li><li>Other modules and general topics:
+<ul><li><a class="wiki" href="/trac/wiki/TracSearch">TracSearch</a> — Full text search in all content.
+</li><li><a class="wiki" href="/trac/wiki/TracTimeline">TracTimeline</a> — Historic perspective on a project.
+</li><li><a class="wiki" href="/trac/wiki/TracRss">TracRss</a> — RSS content syndication.
+</li><li><a class="wiki" href="/trac/wiki/TracAccessibility">TracAccessibility</a> — Accessibility keys.
+</li></ul></li></ul><h2 id="AdministratorGuide">Administrator Guide</h2>
+<ul><li>Installation and upgrade:
+<ul><li><a class="wiki" href="/trac/wiki/TracInstall">TracInstall</a> — How to install and run Trac.
+</li><li><a class="wiki" href="/trac/wiki/TracUpgrade">TracUpgrade</a> — How to upgrade existing installations.
+</li><li><a class="wiki" href="/trac/wiki/TracImport">TracImport</a> — Importing tickets from other bug databases.
+</li><li><a class="wiki" href="/trac/wiki/TracPlugins">TracPlugins</a> — Installing and managing Trac extensions.
+</li></ul></li><li>Configuration and customization:
+<ul><li><a class="wiki" href="/trac/wiki/TracIni">TracIni</a> — Trac configuration file reference. 
+</li><li><a class="wiki" href="/trac/wiki/TracPermissions">TracPermissions</a> — Access control and permissions.
+</li><li><a class="wiki" href="/trac/wiki/TracNavigation">TracNavigation</a> — Customize main navigation menus.
+</li><li><a class="wiki" href="/trac/wiki/TracInterfaceCustomization">TracInterfaceCustomization</a> — Customizing the Trac interface.
+</li><li><a class="wiki" href="/trac/wiki/TracLogging">TracLogging</a> — The Trac logging facility.
+</li></ul></li><li>Administering the Version Control subsystem:
+<ul><li><a class="wiki" href="/trac/wiki/TracRepositoryAdmin">TracRepositoryAdmin</a> — Management of Source Code Repositories.
+</li></ul></li><li>Administering the Ticket subsystem:
+<ul><li><a class="wiki" href="/trac/wiki/TracTicketsCustomFields">TracTicketsCustomFields</a> — Expanding tickets with customized fields.
+</li><li><a class="wiki" href="/trac/wiki/TracNotification">TracNotification</a> — Email notification.
+</li><li><a class="wiki" href="/trac/wiki/TracWorkflow">TracWorkflow</a> — Configurable Ticket Workflow.
+</li></ul></li><li>Reference:
+<ul><li><a class="wiki" href="/trac/wiki/TracEnvironment">TracEnvironment</a> — All you need to know about Trac environments.
+</li><li><a class="wiki" href="/trac/wiki/TracAdmin">TracAdmin</a> — Administering a Trac project via the command-line.
+</li></ul></li></ul><h2 id="SupportandOtherSourcesofInformation">Support and Other Sources of Information</h2>
+<ul><li><a class="ext-link" href="https://trac.edgewall.org/intertrac/TracFaq" title="TracFaq in The Trac Project"><span class="icon">​</span>Trac FAQ</a> — A collection of Frequently Asked Questions on the project website.
+</li><li><a class="ext-link" href="https://trac.edgewall.org/intertrac/TracDev" title="TracDev in The Trac Project"><span class="icon">​</span>TracDev</a> and <a class="ext-link" href="https://trac.edgewall.org/intertrac/TracDev/ApiDocs" title="TracDev/ApiDocs in The Trac Project"><span class="icon">​</span>API docs</a> — Trac Developer documentation.
+</li><li><a class="wiki" href="/trac/wiki/TracSupport">TracSupport</a> — How to get more information.
+</li></ul><p>
+If you are looking for a good place to ask a question about Trac, see the <a class="ext-link" href="https://trac.edgewall.org/intertrac/MailingList" title="MailingList in The Trac Project"><span class="icon">​</span>MailingList</a>. It provides a friendly environment to discuss openly among Trac users and developers.
+</p>
+</div>
+          
+          <div class="trac-modifiedby">
+            <span><a href="/trac/wiki/TracGuide?action=diff&amp;version=4" title="Version 4 by trac">Last modified</a> <a class="timeline" href="/trac/timeline?from=2019-12-06T14%3A46%3A30%2B07%3A00&amp;precision=second" title="See timeline 5 years ago">on Dec 6, 2019 at 2:46:30 PM</a></span>
+            <span class="trac-print">Last modified on Dec 6, 2019 2:46:30 PM</span>
+          </div>
+        
+        
+      </div><div class="collapsed noprint" id="backlinks"><h3 class="foldable">Back Links<span class="trac-count">(14)</span></h3><div class="backlinks"><ul><li><div><a href="/trac/wiki/TracAccessibility">wiki:TracAccessibility</a></div></li><li><div><a href="/trac/wiki/TracChangeset">wiki:TracChangeset</a></div></li><li><div><a href="/trac/wiki/TracFastCgi">wiki:TracFastCgi</a></div></li><li><div><a href="/trac/wiki/TracInstall">wiki:TracInstall</a></div></li><li><div><a href="/trac/wiki/TracModPython">wiki:TracModPython</a></div></li><li><div><a href="/trac/wiki/TracModWSGI">wiki:TracModWSGI</a></div></li><li><div><a href="/trac/wiki/TracNotification">wiki:TracNotification</a></div></li><li><div><a href="/trac/wiki/TracPlugins">wiki:TracPlugins</a></div></li><li><div><a href="/trac/wiki/TracStandalone">wiki:TracStandalone</a></div></li><li><div><a href="/trac/wiki/TracSupport">wiki:TracSupport</a></div></li><li><div><a href="/trac/wiki/TracUpgrade">wiki:TracUpgrade</a></div></li><li><div><a href="/trac/wiki/TracWiki">wiki:TracWiki</a></div></li><li><div><a href="/trac/wiki/WikiProcessors">wiki:WikiProcessors</a></div></li><li><div><a href="/trac/wiki/WikiStart">wiki:WikiStart</a></div></li></ul></div></div>
+      
+    <div id="attachments">
+    </div>
+
+          <div class="buttons">
+              <form method="get" action="/trac/wiki/TracGuide" id="modifypage">
+                <div>
+                  <input type="hidden" name="action" value="edit" />
+                      <input type="submit" value="Edit this page" />
+                </div>
+              </form>
+                <form method="get" action="/trac/attachment/wiki/TracGuide/" id="attachfile">
+  <div>
+    <input type="hidden" name="action" value="new" />
+    <input type="submit" id="attachfilebutton" value="Attach file" />
+  </div>
+</form>
+          </div>
+    </div>
+    <div id="altlinks">
+      <h3>Download in other formats:</h3>
+      <ul>
+        <li class="last first">
+          <a rel="nofollow" href="/trac/wiki/TracGuide?format=txt">Plain Text</a>
+        </li>
+      </ul>
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="https://trac.edgewall.org/"><img src="/trac/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/trac/about"><strong>Trac 1.2.5</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">Visit the Trac open source project at<br /><a href="http://trac.edgewall.org/">http://trac.edgewall.org/</a></p>
+    </div>
+  </body>
+</html>

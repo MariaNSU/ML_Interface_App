@@ -1,0 +1,3 @@
+data exnn22 listNN22.txt /online/users2/harlamov/R008-002/output/
+signal mc22 listMC22.txt /online/users2/harlamov/R008-002/output/
+background hd22 listHD22.txt /online/users2/harlamov/R008-002/output/

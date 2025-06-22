@@ -1,0 +1,383 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+
+  <head>
+    <title>
+      SND2K/Data/MHAD2019-3 (edit) – СНД2000
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+          <link rel="start" href="/trac/wiki" />
+          <link rel="search" href="/trac/search" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/trac.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/wiki.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/jquery-ui/jquery-ui.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/jquery-ui-addons.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/tracdragdrop/tracdragdrop.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/movie/js/skin/minimalist.css" type="text/css" />
+          <link rel="help" href="/trac/wiki/TracGuide" />
+          <link rel="icon" href="/trac/chrome/common/trac.ico" type="image/x-icon" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+      <link type="application/opensearchdescription+xml" rel="search" href="/trac/search/opensearch" title="Search СНД2000" />
+    <script type="text/javascript">
+      var form_token="d24959adfce8d7d7d5977917";
+      var jquery_ui={"ampm":true,"date_format":"M d, yy","day_names":{"abbreviated":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"narrow":["S","M","T","W","T","F","S"],"wide":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]},"default_timezone":null,"first_week_day":0,"month_names":{"abbreviated":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wide":["January","February","March","April","May","June","July","August","September","October","November","December"]},"period_names":{"am":["AM","AM"],"pm":["PM","PM"]},"show_timezone":false,"time_format":"h:mm:ss TT","timepicker_separator":" ","timezone_iso8601":false,"timezone_list":null};
+      var tags={"autocomplete_field":"tags","help_href":null,"help_new_window":false,"keywords":["1160","9","C7","CAEN","CERNROOT","DC","DC1","DQM","EL9","FLT","FLT1","G4","GENC","HDD","HP","L3","LaTeX","Linux","M104","MHAD2011","MHAD2020","MHAD2021","MHAD2024","MHAD2024-2","Mellanox","MySQL","NIC","OnlWeblog","PicAppOnl","R006-001","REVTeX","SMART","SND","SNDAS0","SQLparser","T200","TeX","VNC","Visualisation","Wiki","X11","a9","ac","access","accled","act","active","alarm","alma","alma9","backup","bandwidth","batch","bhabha","binp.local","bkg","cache","cact","caen","camProxyWatcher","camac","canon","centos","certificate","chamber","cherenkov","clb","cocna","container","control","cups","daq","database","db","dc","dczsig","development","documentation","domain","doxygen","driver","emc","empty","ems","error","eton","etot","event","events","firewalld","fit","flt","flt1","gcl","gen","genc","gepard","gist","glibc","gnome","hardware","high","hpcups","hplip","index","interface","interval","jambo","javaws","kafka","kinematic","klknet","korol","kurilin","l3","l3-1-obrazovsky","latex","letsencrypt","library","log","log-\u0436\u0443\u0440\u043d\u0430\u043b","lost","luminosity","manager","math","migrate","mixing","mpi_readout","mtu","multiplexer","multireadout","muon","naicosm","net","netboard","nfs","offline","online","parallel","pedestal","persistent","proxy","puma","pvv","readout","recolist","reconstruction","release","replica","rundbase","scalers","scanner","schedule","scintillator","screenshot","sctp","sctpproxy","server","simulation","slow","snd-msis","snd-ts","sndbc1","sndbc3","sndbc4","sndfarm03","sndfs","sndfs6h","sndfs7h","sndhw2","sndhw3","sndhw4","sndonline","sndoper","sndxt1","sndxt3","spam","sql","ssh","stdout","strip","students","subversion","switch","sysctl","t200","t2am","tape","temdbase","temview","test","thr","timeout","timezones","tube","tubes","tutorial","updates","usb","vepp2k","vepp5","visualisation","vm","voltage","weblog","wiki","windows","winows","wire","yesno","z200","z24","z24s","zoom","zyn","\u0412\u042d\u041f\u041f","\u0418\u0411\u041f","\u0418\u041a","\u0418\u043d\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0439","\u041a\u043e\u0440\u0440\u0435\u043a\u0446\u0438\u044f","\u041f\u0423\u0414","\u0420\u0424\u0424\u0418","\u0426\u0421\u0423","\u0430\u043d\u0430\u043b\u0438\u0437","\u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043d\u044b\u0439","\u0431\u0430\u0442\u0430\u0440\u0435\u044f","\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438","\u0432\u0435\u0431-\u0436\u0443\u0440\u043d\u0430\u043b","\u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440","\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435","\u0432\u0440\u0435\u043c\u044f","\u0433\u0438\u0441\u0442\u043e\u0433\u0440\u0430\u043c\u043c\u044b","\u0434\u0430-\u043d\u0435\u0442","\u0434\u0438\u0441\u043a","\u0436\u0438\u0432\u043e\u0435","\u0436\u0443\u0440\u043d\u0430\u043b","\u0437\u0430\u0434\u0430\u043d\u0438\u044f","\u0437\u0430\u043a\u0443\u043f\u043a\u0438","\u0437\u0430\u0445\u043e\u0434","\u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f","\u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b","\u043a\u0430\u043b\u0438\u0431\u0440\u043e\u0432\u043a\u0430","\u043a\u0430\u043b\u043e\u0440\u0438\u043c\u0435\u0442\u0440\u0430","\u043a\u0430\u0444\u043a\u0430","\u043a\u043b\u0430\u0441\u0442\u0435\u0440","\u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u044f","\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435","\u043b\u0435\u043d\u0442\u044b","\u043b\u043e\u0433-\u0436\u0443\u0440\u043d\u0430\u043b","\u043c\u0435\u0440\u0442\u0432\u043e\u0435","\u043c\u043d\u043e\u0433\u043e\u043f\u043e\u0442\u043e\u0447\u043d\u044b\u0439","\u043d\u043e\u043c\u0435\u0440","\u043e\u0441\u0446\u0438\u043b\u043b\u043e\u0433\u0440\u0430\u0444","\u043e\u0442\u0441\u0447\u0435\u0442","\u043e\u0448\u0438\u0431\u043a\u0430","\u043f\u0435\u0440\u0435\u0441\u0447\u0435\u0442\u043a\u0438","\u043f\u0435\u0440\u0435\u0441\u0447\u0451\u0442\u043a\u0438","\u043f\u0438\u0442\u0430\u043d\u0438\u0435","\u043f\u043b\u0430\u0442\u0430","\u043f\u043e\u0442\u0435\u0440\u0438","\u043f\u0440\u0438\u043d\u0442\u0435\u0440","\u043f\u0440\u043e\u043f\u0443\u0441\u043a\u0438","\u043f\u0440\u043e\u0441\u043a\u043e\u043a","\u043f\u044c\u0435\u0434\u0435\u0441\u0442\u0430\u043b\u043e\u0432","\u0440\u0430\u0441\u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0438\u0432\u0430\u043d\u0438\u0435","\u0440\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435","\u0440\u0438\u0434\u0430\u0443\u0442","\u0440\u0443\u043a\u043e\u043f\u0438\u0441\u043d\u044b\u0439","\u0441\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f","\u0441\u0435\u0442\u044c","\u0441\u0436\u0430\u0442\u0438\u0435","\u0441\u043e\u0431\u044b\u0442\u0438\u044f","\u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430","\u0441\u0447\u0435\u0442\u0447\u0438\u043a","\u0441\u0447\u0451\u0442\u0447\u0438\u043a","\u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430","\u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430","\u0444\u0430\u0437\u0430","\u0444\u0430\u0437\u044b","\u0447\u0430\u0441\u0442\u043e\u0442\u0430","\u0447\u0438\u0441\u0442\u0438\u043b\u044c\u0449\u0438\u043a"],"match_from_start":"","separator":" "};
+      var auto_preview_timeout=2.0;
+      var _tracdragdrop={"base_url":"/trac/","can_create":true,"max_size":52428800,"new_url":"/trac/tracdragdrop/new/wiki/SND2K/Data/MHAD2019-3","no_image_msg":"No image \"%(id)s\" attached to %(parent)s","parent_name":"SND2K/Data/MHAD2019-3","raw_parent_url":"/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/"};
+    </script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/babel.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/trac.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/search.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/wikitoolbar.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/resizer.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/auto_preview.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/folding.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tags/js/autocomplete_tags.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui-addons.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui-i18n.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tracdragdrop/tracdragdrop.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/movie/js/flowplayer.min.js"></script>
+    <script type="text/javascript">
+      jQuery("#trac-noscript").remove();
+      jQuery(document).ready(function($) {
+        $(".trac-autofocus").focus();
+        $(".trac-target-new").attr("target", "_blank");
+        if ($.ui) { /* is jquery-ui added? */
+          $(".trac-datepicker:not([readonly])").prop("autocomplete", "off").datepicker();
+          $(".trac-datetimepicker:not([readonly])").prop("autocomplete", "off").datetimepicker();
+          $("#main").addClass("trac-nodatetimehint");
+        }
+        $(".trac-disable").disableSubmit(".trac-disable-determinant");
+        setTimeout(function() { $(".trac-scroll").scrollToTop() }, 1);
+        $(".trac-disable-on-submit").disableOnSubmit();
+      });
+    </script>
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $("#text").blur(function() {
+          $("#scroll_bar_pos").val(this.scrollTop);
+        }).get(0).scrollTop = $("#scroll_bar_pos").val();
+        $("#editrows").change(function() {
+          resizeTextArea("text", this.options[this.selectedIndex].value);
+        });
+        $("#sidebyside").change(function() {
+          $("#edit input[type=submit][name=preview]").click();
+        });
+        $(".foldable").enableFolding(true, true);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="banner">
+      <div id="header">
+        <h1><a href="">СНД2000</a></h1>
+      </div>
+      <form id="search" action="/trac/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first">logged in as <span class="trac-author-user">petrovam</span></li><li><form action="/trac/logout" class="trac-logout" id="logout" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="d24959adfce8d7d7d5977917" /></div><div><button type="submit" name="logout">Logout</button></div></form></li><li><a href="/trac/wiki/TracGuide">Help/Guide</a></li><li><a href="/trac/about">About Trac</a></li><li><a href="/trac/prefs">Preferences</a></li><li class="last"><a href="/trac/rpc">API</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first active"><a href="/trac/wiki">Wiki</a></li><li><a href="/trac/timeline">Timeline</a></li><li><a href="/trac/browser">Browse Source</a></li><li><a href="/trac/report">View Tickets</a></li><li><a href="/trac/newticket">New Ticket</a></li><li><a href="/trac/search">Search</a></li><li><a href="/trac/roadmap">Roadmap</a></li><li class="last"><a href="/trac/tags">Tags</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="first"><a href="/trac/wiki/WikiStart">Start Page</a></li><li><a href="/trac/wiki/TitleIndex">Index</a></li><li class="last"><a href="/trac/wiki/SND2K/Data/MHAD2019-3?action=history">History</a></li>
+        </ul>
+        <hr />
+      </div>
+    <div id="content" class="wiki">
+      <h1>Editing SND2K/Data/MHAD2019-3</h1>
+        
+  <form id="edit" class="mod" action="/trac/wiki/SND2K/Data/MHAD2019-3" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="d24959adfce8d7d7d5977917" /></div>
+    <fieldset>
+      <input type="hidden" name="from_editor" value="1" />
+      <input type="hidden" name="action" value="edit" />
+      <input type="hidden" name="version" value="9" />
+      <input type="hidden" id="scroll_bar_pos" name="scroll_bar_pos" value="" />
+      <div id="rows">
+          <label for="editrows">Adjust edit area height:</label>
+          <select size="1" name="editrows" id="editrows" tabindex="43">
+            <option value="8">
+              8
+            </option><option value="12">
+              12
+            </option><option value="16">
+              16
+            </option><option value="20" selected="selected">
+              20
+            </option><option value="24">
+              24
+            </option><option value="28">
+              28
+            </option><option value="32">
+              32
+            </option><option value="36">
+              36
+            </option><option value="40">
+              40
+            </option>
+          </select>
+        <label for="sidebyside" title="Selecting and pressing 'Preview' enters a two-column [edit|preview] mode">
+          Edit side-by-side
+        </label>
+        <input type="checkbox" name="sidebyside" id="sidebyside" />
+      </div>
+      <p><textarea id="text" class="wikitext trac-autofocus trac-fullwidth trac-resizable" name="text" cols="80" rows="20">
+= `MHAD2019-3 (37920..42826, R008-002)`
+
+== Особенности
+- Точка E=737.5 разбыта на две, так как менялся триггер.
+- Задание на обработку моделирования должно учитывать работу со временем в калориметре. См. [https://wwwsnd.inp.nsk.su/trac/wiki/Personal/NatalyaMelnikova/emcTimeManual мануал от Н.Мельниковой]
+- В заходах 39715-39911 не работала плата в калориметре -&gt; больше количество(52) кристаллов в naiblack(MC). В этих точках ( 687.5, 700, 712.5) наблюдается просадка в эффективности бабы и других процессов.
+- В заходах 37920-38161 не работали сцинтилляционные счетчики 17-18 внешней системы. 
+- В заходах 40859,40889,40890,40891,40892,40893,40894,40895 не работал да-нет 14 счетчика (см. тикет #1019)
+- В заходах 41152-41274 (18-24 апреля) из-за отравления рабочей смеси в трубках внешней системы была снижена эффективность модулей внутренней баррели (8-14) и 15 aka Т1 (торцевой). Возможно, эти заходы не следует использовать в анализе, для которого критична мюонная система.
+- В заходах 41645-41659 наблюдался "звон" трубки 256 (15 модуль), при этом "звенело" и "быстрое ИЛИ" TU15, что могло сказаться на выработке ACT и на первичном триггере. Возможно, эти заходы не следует использовать в анализе, для которого актуальны маски FLT, использующие ACT.
+- В части событий неверено измеряется время по калориметру, поэтому треки проходят по проволочкам (см. тикеты #1172 и #1325)
+- Низкочастотная наводка в дрейфовой камере, заходы 39535-39589 и 39655-39768 (см. тикет #1058)
+- Список заходов, которые сильно выпадают на графиках, приведены после соответствующих картинок.
+
+== Основная информация
+|| **сканирование** || **тэг** || **заходы** || **релиз** || **путь** ||
+|| MHAD2019 || MHAD2019-3 || 37920..42826 || R008-002 || /online/proc2/MHAD2019-3||
+
+распределение заходов по энергетическим точкам:
+|| **энергия** || **индекс** || **интерграл светимости (нб^-1^)**  || **начальный заход** || **конечный заход** || **время (начало)**  || **время (конец)**   ||
+||    МэВ      ||            ||        **приблизительный**         ||                     ||                    ||                     ||                     || 
+||    537.5    ||     0	     ||             589	                   ||        38291	  ||      38480   	|| 2019-01-17 14:20:46 || 2019-01-20 20:57:05 ||
+||    550.0    ||     0      ||  	   1160   	           ||        37920	  ||      38289	        || 2019-01-11 18:46:38 || 2019-01-17 08:24:20 ||
+||    562.5    ||     0	     ||             831          	   ||        38481        ||	  38770         || 2019-01-20 23:06:30 || 2019-01-30 07:33:33 ||
+||    575.0    ||     0      ||            1623	                   ||        38776        ||      38897	        || 2019-01-30 16:44:23 || 2019-02-03 04:01:06 ||
+||    587.5    ||     0	     ||            1246                    ||	     38899	  ||      39028	        || 2019-02-03 13:16:04 || 2019-02-06 07:32:23 ||
+||    600.0    ||     0	     ||            1207	                   ||        39029        ||	  39106	        || 2019-02-06 14:34:08 || 2019-02-08 07:40:17 ||
+||    612.5    ||     0	     ||             998	                   ||        39109        ||	  39200 	|| 2019-02-08 21:37:21 || 2019-02-10 12:56:21 ||
+||    612.5    ||     1	     ||            1516    	           ||        42757	  ||      42826	        || 2019-06-26 23:30:20 || 2019-06-30 23:58:59 ||
+||    625.0    ||     0	     ||            1040                    ||        39201        ||	  39275	        || 2019-02-10 15:20:04 || 2019-02-12 13:00:44 ||
+||    637.5    ||     0      || 	   1120   	           ||        39281        ||	  39436         || 2019-02-12 23:03:42 || 2019-02-15 18:15:52 ||
+||    641.0    ||     0      ||	           7095                    ||        42403	  ||      42753	        || 2019-06-12 00:32:23 || 2019-06-26 07:52:08 ||
+||    650.0    ||     0      || 	   1277	                   ||        39444	  ||      39530	        || 2019-02-15 21:28:24 || 2019-02-17 12:10:05 ||
+||    662.5    ||     0      ||	           1140	                   ||        39531	  ||      39636	        || 2019-02-17 12:59:41 || 2019-02-19 08:02:56 ||
+||    675.0    ||     0      ||	           1246   	           ||        39655	  ||      39714	        || 2019-02-19 17:36:09 || 2019-02-20 21:33:47 ||
+||    687.5    ||     0      ||	           1008 	           ||        39715	  ||      39788	        || 2019-02-21 01:07:01 || 2019-02-22 20:24:24 ||
+||    700.0    ||     0      ||	           1010  	           ||        39790	  ||      39844	        || 2019-02-22 21:36:57 || 2019-02-23 23:52:52 ||
+||    712.5    ||     0      ||	            995  	           ||        39845	  ||      39911	        || 2019-02-24 00:47:07 || 2019-02-25 04:33:53 ||
+||    725.0    ||     0      ||	           1190	                   ||        39922	  ||      40024	        || 2019-02-25 19:38:43 || 2019-02-28 07:24:58 ||
+||    737.5    ||     0      ||	            348                    ||        40030	  ||      40050	        || 2019-02-28 17:03:19 || 2019-03-01 02:48:21 ||
+||    735.5    ||     1      ||             526                    ||        40356        ||	  40441         || 2019-03-13 21:14:44 || 2019-03-17 08:17:56 ||
+||    750.0    ||     0      ||	           1020 	           ||        40442	  ||      40495	        || 2019-03-17 13:40:05 || 2019-03-19 22:23:06 ||
+||    762.5    ||     0      ||	           1266	                   ||        40499	  ||      40567	        || 2019-03-20 04:33:07 || 2019-03-22 08:23:28 ||
+||    775.0    ||     0      ||	           1028	                   ||        40569	  ||      40607	        || 2019-03-22 16:08:58 || 2019-03-23 20:57:55 ||
+||    787.5    ||     0      ||	           1266	                   ||        40608	  ||      40656	        || 2019-03-23 22:37:48 || 2019-03-25 07:52:50 ||
+||    800.0    ||     0      ||	           1025 	           ||        40659	  ||      40717	        || 2019-03-25 17:43:19 || 2019-03-28 08:35:39 ||
+||    812.5    ||     0      ||	           1297	                   ||        40745	  ||      40843	        || 2019-03-29 16:53:39 || 2019-04-03 07:27:30 ||
+||    825.0    ||     0      ||	           1661  	           ||        40846	  ||      40895	        || 2019-04-03 21:02:36 || 2019-04-05 17:15:50 ||
+||    837.5    ||     0      ||	           1311	                   ||        40897	  ||      40967	        || 2019-04-05 22:06:14 || 2019-04-09 02:06:31 ||
+||    850.0    ||     0      ||	           1182	                   ||        40968	  ||      41013	        || 2019-04-09 14:39:23 || 2019-04-11 13:15:53 ||
+||    862.5    ||     0      ||	           1187	                   ||        41033	  ||      41066	        || 2019-04-12 20:01:18 || 2019-04-14 01:06:47 ||
+||    875.0    ||     0      ||	           1141	                   ||        41067	  ||      41104	        || 2019-04-14 04:04:31 || 2019-04-16 03:46:08 ||
+||    887.5    ||     0      ||	           1150 	           ||        41109	  ||      41153	        || 2019-04-16 17:18:14 || 2019-04-18 13:03:36 ||
+||    900.0    ||     0      || 	   1292	                   ||        41155	  ||      41210	        || 2019-04-18 15:53:26 || 2019-04-20 19:54:16 ||
+||    912.5    ||     0      ||	           1178	                   ||        41211	  ||      41256	        || 2019-04-20 23:45:39 || 2019-04-23 05:05:49 ||
+||    925.0    ||     0      ||	           1216	                   ||        41257	  ||      41304	        || 2019-04-23 07:10:04 || 2019-04-25 07:15:33 ||
+||    936.0    ||     0      ||	           2283	                   ||        41309	  ||      41416	        || 2019-04-25 21:43:21 || 2019-04-29 20:24:44 ||
+||    945.0    ||     0      ||	           2564	                   ||        42326	  ||      42397	        || 2019-06-07 21:02:07 || 2019-06-10 06:42:09 ||
+||    950.0    ||     0      ||	           2021	                   ||        41418	  ||      41500	        || 2019-04-30 02:01:41 || 2019-05-03 07:58:29 ||
+||    951.0    ||     0      ||	           2283	                   ||        42244	  ||      42325	        || 2019-06-04 06:05:48 || 2019-06-07 19:49:29 ||
+||    955.0    ||     0      ||	           1894	                   ||        42160	  ||      42239	        || 2019-05-31 19:03:30 || 2019-06-03 07:11:49 ||
+||    962.5    ||     0      ||	           2017	                   ||        41501	  ||      41693	        || 2019-05-03 13:25:10 || 2019-05-14 04:32:14 ||
+||    975.0    ||     0      ||	           4636	                   ||        41694	  ||      41950	        || 2019-05-14 07:12:01 || 2019-05-24 19:35:46 ||
+||    987.5    ||     0      ||	           1943	                   ||        41951	  ||      42119	        || 2019-05-25 06:58:45 || 2019-05-31 03:13:15 ||
+
+== Связанные тикеты
+- Шумящие счетчики калориметра. Тикеты #789, #1005
+- Подозрительные заходы в MHAD2019, калориметр. Тикет #984
+- Подозрительные заходы в MHAD2019, измерение времени в калориметре. Тикет #985
+- Подозрительные заходы в MHAD2019, дрейфовая камера. Тикет #997
+- Заходы с низким отношением Nee/Ngg. Тикет #1000
+- Качество работы мюонной системы. Тикет #1019
+- MHAD2019: Подозрительное поведение трековой системы. Тикет #1058
+- Новый объект OnlEmcTimeHit с максимальной амплитудой сигнала и другие обновления для MHAD2019-3. Тикет #1053
+- Usage for z24bad. Тикет #1078
+- Ступеньки в эффективности дрейфовой камеры, обрезание заходов. Тикет #1139
+- Калибровка  naigeom1 для MHAD2019. Тикет #3077
+- Калибровка ipoint для MHAD2019. Тикет #3201
+- Проблема с gcl файлами в MHAD2019-3. Тикет #3239
+
+== Зависимость различных параметров от номера захода
+- Отношение числа событий Nee/Ngg \\ \\ [[Image(Nee2Ngg.png,70%)]]\\
+   \\ \\
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий bebe36 \\ \\ [[Image(EtonMean.png,70%)]]
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий bebe36 из подгонки \\ \\ [[Image(EtonMeanF.png,70%)]] \\
+  \\ \\
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий cbebe на малые углы \\ \\ [[Image(EtonMeanLA.png,70%)]]
+- Минимальная эффективность слоя дрейфовой камеры \\ \\ [[Image(DCEff.png,70%)]]\\
+   \\ \\
+- RMS dtheta для событий bebe36 \\ \\ [[Image(dthetaRMS.png,70%)]]\\
+  RMS&lt;2.5 для заходов 39474,41656. \\ \\
+- ширина на полувысоте для dtheta для событий bebe36 \\ \\ [[Image(dthetaHWHM.png,70%)]]
+- RMS dphi для событий bebe36 \\ \\ [[Image(dphiRMS.png,70%)]]\\
+  RMS&gt;1.8 для заходов 38582,39018,39884,40829. \\ \\
+- ширина на полувысоте для dphi для событий bebe36 \\ \\ [[Image(dphiHWHM.png,70%)]]
+- Относительная разность максимума от среднего значения для распределения по $\phi$ для событий bebe36 (проверка на однородность распределения по phi) \\ \\ [[Image(phi_chi2ndf.png,70%)]]
+- RMS разности z-координат для треков от рассеяния Баба \\ \\ [[Image(dztr1.png,70%)]]\\
+  RMS&gt;0.75 для заходов 38582,39847,41656,42098.  \\ \\
+- Количество событий с наложениями \\ \\ [[Image(Ngcl.png,70%)]] \\
+  Заходы, в которых количество генераторных событий равно нулю: Тикет #3239 \\ \\
+- Доля событий со сбойным крейтом \\ \\ [[Image(skipCreatR.png,70%)]] \\
+  В заходах 38776-40054 плата Z24Etot стоял не на своем месте - не было осцоллограмм Etot. \\ \\
+- Максимальный средний chi2 подгонки сигналов с платы Z24 калориметра \\ \\ [[Image(Z24Chi2.png,70%)]] \\
+  chi2&gt;100 для заходов 37922,37933,37934,37941,37949,39972,39973,39974,39975,39976,39977,39978,39979,39980,39981. \\ 
+  Что было в MHAD2019-2: https://wwwsnd.inp.nsk.su/trac/attachment/wiki/SND2K/Data/MHAD2019-2/Z24Chi2.png
+  \\ \\
+- Максимум среднего времени для сигналов с платы Z24 калориметра \\ \\ [[Image(Z24TimeMean.png,70%)]]\\
+  Time&gt;15 (они внесены в Z24bad) : 37920,37921,37922,37923,37924,37925,37927,37928,37929,37931,37932,37933,37934,37935,37936,37937,37938,37939,37940,37941,37942,37943,37944,37945,37946,37947,37948,37949,\\
+  37950,37951,37952,37953,37954,37955,37956,37957,37958,37959,37961,37962,37963,37964,37965,37966,37967,37968,37969,37970,37971,37972,37973,37974,37975,37991,37992,37993,37994,37995,37996,37997,37998,\\
+  37999,38000,38001,38002,38003,38004,38005,38006,38007,38008,38012,38013,38014,38015,38016,38017,38018,38019,38020,38021,38022,38023,38024,38025,38026,38027,38028,38029,38030,38033,38037,38039,38040,\\
+  38041,38043,38044,38045,38046,38048,38049,38051,38052,38053,38055,38056,38057,38058,38059,38061,38062,38063,38064,38065,38066,38070,38071,38072,38073,38074,38075,38076,38077,38078,38079,38080,38081,\\
+  38082,  38083,38085,38090,38091,38092,38094,38095,38096,38097,38098,38100,38101,38102,38103,38104,38105,38106,38107,38109,38110,38111,38112,38113,38114,38116,38117,38118,38123,38124,38125,38126,38127,\\
+  38128,38129,38130,38131,38132,38133,38134,38135,38136,38137,38138,38139,38140,38141,38142,38143,38144,38146,38147,38148,38149,38150,38151,38152,38153,38154,38155,38156,38157,38158,38159,38160,38161,\\
+  38205,38210,38249,38291,38292,38294,38297,38302,38308,38314,38320,38326,38330,38341,38351,38537,38539,38540,38542,38544,38546,38547,38548,38549,38550,38551,38552,38734,38735,38736,38737,38741,38744,\\
+  38745,38835,38836,38841,38842,38843,38844,38845,38846,38847,38848,38849,38852,38853,38854,38855,38856,38857,38858,38859,38860,38861,38862,38863,38864,38865,38866,38867,38868,38869,38870,38871,38872,\\
+  38873,38874,38875,38876,38877,38878,38879,38881,38882,38932,38933,38934,38935,38936,38937,38938,38940,38941,39281,39282,39283,39284,39285,39286,39287,39288,39289,39290,39291,39292,39294,39295,39297,\\
+  39299,39302,39415,39416,39417,39419,39420,39422,39424,39428,39430,39431,39432,39434,39435,39436,39531,39532,39533,39534,39535,39536,39537,39538,39599,39600,39601,39602,39603,39604,39605,39606,39607,\\
+  39608,39609,39611,39613,39614,39615,39616,39617,39618,39619,39621,39622,39623,39624,39625,39626,39627,39628,39629,39630,39631,39632,39633,39634,39636,39690,39691,39692,39693,39694,39695,39696,39697,\\
+  39698,39699,39700,39701,39702,39703,39704,39705,39706,39707,39708,39709,39710,39711,39712,39713,39714,39715,39716,39717,39718,39719,39720,39721,39722,39723,39724,39725,39726,39727,39728,39729,39730,\\
+  39739,39740,39742,39743,39744,39745,39746,39747,39748,39750,39751,39752,39753,39754,39755,39756,39757,39758,39759,39760,39761,39762,39763,39765,39766,39767,39768,39772,39773,39774,39776,39777,39778,\\
+  39779,39780,39781,39782,39783,39784,39785,39786,39787,39788,39956,40013,40014,40015,40016,40017,40018,40020,40021,40022,40023,40024,40466,41013,41304,41324,41328,41660,41662,41663,41664,41668,41695,\\
+  42098,42104,42114,42119,42244,42317,42416,42524. \\
+  Что было в MHAD2019-2: https://wwwsnd.inp.nsk.su/trac/attachment/wiki/SND2K/Data/MHAD2019-2/Z24TimeMean.png \\
+   \\ \\
+- Максимум времени для сигналов с платы Z24 калориметра \\ \\ [[Image(Z24TimeMaxBin.png,70%)]] \\
+  Time&gt;15: 37920..37925,37927..37929,37931..37959,37961..37975,37991..38008,38012..38030,38033,38037,
+  38039..38041,38043..38046,38048,38049,38051..38053,38055..38059,38061..38066,38070..38083,38085,
+  38090..38092,38094..38098,38100..38107,38109..38114,38116..38118,38123..38144,38146,38147..38161,38249,
+  38291,38292,38294,38297,38302,38308,38314,38320,38326,38330,38341,38351,38537,38539,38540,38542,
+  38544,38546..38552,38734..38737,38741,38744,38745,38835,38836,38841..38849,38852..38879,38881,38882,
+  38932..38938,38940,38941,39281..39292,39294,39295,39297,39299,39302,39415..39417,39419,39420,39422,39424,\\
+  39428,39430..39432,39434..39436,39599..39609,39611,39613..39619,39621..39634,39636,39690..39730,39739,39740,39742..39748,
+  39750..39763,39765..39768,39772..39774,39776..39777,39778,39779,39780,39781,39782,\\
+  39783,39784,39788,39956,40013..40018,40020..40024,41013,41304,41324,41327,41328,41660,41662..41664,41668,41678,41695,42098,42104,42244,42317,42524.
+  \\ \\
+- Максимум разброса (RMS) времени для сигналов с платы Z24 калориметра \\ \\ [[Image(Z24TimeRMS.png,70%)]] \\
+  Что было в MHAD2019-2: https://wwwsnd.inp.nsk.su/trac/attachment/wiki/SND2K/Data/MHAD2019-2/Z24TimeRMS.png
+  \\ \\
+- Эффективность черенковского счетчика \\ \\ [[Image(AGEff.png,70%)]]\\
+  Счетчик не работал в заходах 38969,38971,38972,39600,39996,41754,42098,42104,42114.\\
+  Эффективность меньше 0.75 в заходах 38005,38439,38736,38935,38976,39474,39884,39991,40857,41010,
+  41379,41656,41695,41847,41849,42065,42119,42367. \\ \\
+- Эффективность внешней системы (трубки) \\ \\ [[Image(TUEff.png,70%)]]\\
+  Эффективность меньше 0.9 в заходах 39847,41177..41237,41244,41245,41250..41252,41257,42553\\ \\
+- Работа внешней системы (сцинтилляционные счетчики) \\ \\ [[Image(AC.png,70%)]]\\
+  Не работал (ДА-НЕТ?) в заходах 37920..37925,37927..37929,37931..37959,37961..37975,37991..38008,38012..38030,
+  38033,38037,38039..38041,38043..38046,38048,38049,38051..38053,38055..38057,38058,38059,38061..38066,38070..38083,
+  38085,38090..38092,38094..38098,38100..38107,38109..38114,38116..38118,38123..38144,38146..38161,40859,40889..40895.\\
+  </textarea>
+      </p>
+      <div id="help"><strong>Note:</strong> See <a href="/trac/wiki/WikiFormatting">WikiFormatting</a> and
+        <a href="/trac/wiki/TracWiki">TracWiki</a> for help on editing wiki content.</div>
+    </fieldset>
+    <fieldset id="changeinfo">
+      <legend>Change information</legend>
+      <div id="changeinfo1">
+        <div class="field">
+          <label>Comment about this change (optional):<br />
+            <input id="comment" type="text" class="trac-fullwidth wikitext" name="comment" value="" />
+          </label>
+        </div>
+      </div>
+    </fieldset>
+    <div class="buttons">
+        <input type="submit" name="preview" value="Preview Page" /> 
+        <input type="submit" name="diff" value="Review Changes" /> 
+        <input type="submit" id="save" name="save" class="trac-disable-on-submit" value="Submit changes" /> 
+      <input type="submit" name="cancel" value="Cancel" />
+    </div>
+  </form>
+
+      
+    <div id="attachments">
+        <h3 class="foldable">Attachments <span class="trac-count">(20)</span></h3>
+        <div>
+          <ul>
+            <li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/AC.png" title="View attachment">AC.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/AC.png" class="trac-rawlink" title="Download">​</a> (<span title="13002 bytes">12.7 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A30%3A55%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:30:55 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/AGEff.png" title="View attachment">AGEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/AGEff.png" class="trac-rawlink" title="Download">​</a> (<span title="18265 bytes">17.8 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A30%3A56%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:30:56 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/DCEff.png" title="View attachment">DCEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/DCEff.png" class="trac-rawlink" title="Download">​</a> (<span title="20011 bytes">19.5 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A30%3A56%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:30:56 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/dphiHWHM.png" title="View attachment">dphiHWHM.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/dphiHWHM.png" class="trac-rawlink" title="Download">​</a> (<span title="25616 bytes">25.0 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A30%3A57%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:30:57 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/dphiRMS.png" title="View attachment">dphiRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/dphiRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="26039 bytes">25.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A30%3A58%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:30:58 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/dthetaHWHM.png" title="View attachment">dthetaHWHM.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/dthetaHWHM.png" class="trac-rawlink" title="Download">​</a> (<span title="25413 bytes">24.8 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A30%3A58%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:30:58 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/dthetaRMS.png" title="View attachment">dthetaRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/dthetaRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="25964 bytes">25.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A30%3A59%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:30:59 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/dztr1.png" title="View attachment">dztr1.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/dztr1.png" class="trac-rawlink" title="Download">​</a> (<span title="29829 bytes">29.1 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A00%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:00 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/EtonMean.png" title="View attachment">EtonMean.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/EtonMean.png" class="trac-rawlink" title="Download">​</a> (<span title="27863 bytes">27.2 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A01%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:01 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/EtonMeanF.png" title="View attachment">EtonMeanF.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/EtonMeanF.png" class="trac-rawlink" title="Download">​</a> (<span title="31430 bytes">30.7 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A01%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:01 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/EtonMeanLA.png" title="View attachment">EtonMeanLA.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/EtonMeanLA.png" class="trac-rawlink" title="Download">​</a> (<span title="25381 bytes">24.8 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A02%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:02 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/Nee2Ngg.png" title="View attachment">Nee2Ngg.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/Nee2Ngg.png" class="trac-rawlink" title="Download">​</a> (<span title="25039 bytes">24.5 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A03%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:03 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/Ngcl.png" title="View attachment">Ngcl.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/Ngcl.png" class="trac-rawlink" title="Download">​</a> (<span title="29565 bytes">28.9 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A03%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:03 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/phi_chi2ndf.png" title="View attachment">phi_chi2ndf.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/phi_chi2ndf.png" class="trac-rawlink" title="Download">​</a> (<span title="31033 bytes">30.3 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A04%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:04 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/skipCreatR.png" title="View attachment">skipCreatR.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/skipCreatR.png" class="trac-rawlink" title="Download">​</a> (<span title="18452 bytes">18.0 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A04%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:04 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/TUEff.png" title="View attachment">TUEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/TUEff.png" class="trac-rawlink" title="Download">​</a> (<span title="18857 bytes">18.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A05%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:05 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/Z24Chi2.png" title="View attachment">Z24Chi2.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/Z24Chi2.png" class="trac-rawlink" title="Download">​</a> (<span title="20903 bytes">20.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A06%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:06 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/Z24TimeMaxBin.png" title="View attachment">Z24TimeMaxBin.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/Z24TimeMaxBin.png" class="trac-rawlink" title="Download">​</a> (<span title="16653 bytes">16.3 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A07%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:07 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/Z24TimeMean.png" title="View attachment">Z24TimeMean.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/Z24TimeMean.png" class="trac-rawlink" title="Download">​</a> (<span title="24096 bytes">23.5 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A09%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:09 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2019-3/Z24TimeRMS.png" title="View attachment">Z24TimeRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2019-3/Z24TimeRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="27092 bytes">26.5 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-18T20%3A31%3A09%2B07%3A00&amp;precision=second" title="See timeline 14 months ago">on Dec 18, 2023 at 8:31:09 PM</a>.
+            </li>
+          </ul>
+          <p>
+            Download all attachments as: <a rel="nofollow" href="/trac/zip-attachment/wiki/SND2K/Data/MHAD2019-3/">.zip</a>
+          </p>
+        </div>
+    </div>
+
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="https://trac.edgewall.org/"><img src="/trac/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/trac/about"><strong>Trac 1.2.5</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">Visit the Trac open source project at<br /><a href="http://trac.edgewall.org/">http://trac.edgewall.org/</a></p>
+    </div>
+  </body>
+</html>

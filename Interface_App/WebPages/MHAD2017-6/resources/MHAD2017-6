@@ -1,0 +1,347 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+
+  <head>
+    <title>
+      SND2K/Data/MHAD2017-6 (edit) – СНД2000
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+          <link rel="start" href="/trac/wiki" />
+          <link rel="search" href="/trac/search" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/trac.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/wiki.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/jquery-ui/jquery-ui.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/jquery-ui-addons.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/tracdragdrop/tracdragdrop.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/movie/js/skin/minimalist.css" type="text/css" />
+          <link rel="help" href="/trac/wiki/TracGuide" />
+          <link rel="icon" href="/trac/chrome/common/trac.ico" type="image/x-icon" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+      <link type="application/opensearchdescription+xml" rel="search" href="/trac/search/opensearch" title="Search СНД2000" />
+    <script type="text/javascript">
+      var form_token="35e3dfb8bcf9b17047f64496";
+      var jquery_ui={"ampm":true,"date_format":"M d, yy","day_names":{"abbreviated":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"narrow":["S","M","T","W","T","F","S"],"wide":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]},"default_timezone":null,"first_week_day":0,"month_names":{"abbreviated":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wide":["January","February","March","April","May","June","July","August","September","October","November","December"]},"period_names":{"am":["AM","AM"],"pm":["PM","PM"]},"show_timezone":false,"time_format":"h:mm:ss TT","timepicker_separator":" ","timezone_iso8601":false,"timezone_list":null};
+      var tags={"autocomplete_field":"tags","help_href":null,"help_new_window":false,"keywords":["/online/events","/online/users2","1000","1160","9","C7","CAEN","CERNROOT","CMD","DC","DC1","DQM","EL9","EMC","FLT","FLT1","FilterApp","G4","GENC","HDD","HP","HepRApp","HepRep","Journal","L3","LaTeX","Latex","Log-file","M104","MC","MHAD2011","MHAD2020","MHAD2021","MHAD2021-1","MHAD2023","MHAD2024","MHAD2024-2","MariaDB","MeV","MySQL","NaIGenPdsReader","OnlWeblog","OnlWireHitAmpAlgo","PicApp","PicAppOnl","R006-001","R006-002","REVTeX","ROOT","SMART","SND","SND-related","SNDAS0","SQLparser","SimEmcResponse","SimLightCol","SimRecApp","T200","TLT","TeX","TexLive","UPS","VIEW","VNC","Visualisation","Wiki","X11","a9","abs","ac","access","accled","act","active","ag3","air","alarm","alma","alma9","backup","bad","bandwidth","batch","bhabha","binp.local","bkg","bus","cache","cact","caen","camProxyWatcher","camac","canon","cd","centos","chamber","cherenkov","clb","clbdata","cll3","cocna","cold","conditioning","container","control","cooling","cups","daq","database","db","dc","dcxtcal","dcz","dczsig","development","directory","documentation","domain","doxygen","emc","empty","ems","epics","error","eton","etot","event","events","finish","firewall","firewalld","fit","flt","flt1","form","formulae","gcl","gen","genc","generator","gepard","gist","glibc","gnome","grid","hardware","high","history","hpcups","hplip","hv","iman","index","information","init","interlock","internal","interval","jambo","javaws","kas","kernel","keyboard","kinematic","klknet","korol","kurilin","l3","l3-1-obrazovsky","latex","layout","library","limit","linear","log","log-\u0436\u0443\u0440\u043d\u0430\u043b","logic","lost","luminosity","manager","math","memory","mhad2011","migrate","mixing","mpi_readout","msis","mtu","multiplexer","multireadout","muon","n+anti-n","naicosm","naietthr","net","netboard","nfs","nusc","offline","online","onlstate","operator","page","parallel","password","pedestal","persistent","petalinux","phonetic","pipi","power","proxy","pub","puma","pvv","readout","reason","recolist","reconstruction","release","room","rundbase","runreport","rus","scalers","scanner","schedule","scintillator","screenshot","sctp","sctpproxy","sctproxy","series","server","shifts","simulation","slots","slow","snd-msis","snd-ts","sndbb1","sndbc1","sndbc3","sndbc4","sndfarm","sndfarm02","sndfarm03","sndfs","sndfs5h","sndfs6h","sndfs7h","sndhw2","sndhw3","sndhw4","sndnas2","sndonline","sndoper","sndxt1","sndxt3","spam","sql","ssh","stack","starter","stdout","strip","students","subversion","supply","switch","sysadmin","sysctl","system","t200","t2am","tape","temdbase","temview","test","thecus","thr","threshold","tickets","time","timeout","timezones","trac","tube","tubes","tutorial","updates","usb","user","vepp2k","vepp2kimport","visualisation","vm","voltage","weblog","wiki","windows","winows","wire","yesno","yotta","z","z200","z24","z24s","zoom","zyn","\u0411\u0414","\u0412\u042d\u041f\u041f","\u0418\u0411\u041f","\u0418\u043d\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0439","\u041a\u043e\u0440\u0440\u0435\u043a\u0446\u0438\u044f","\u041c\u0421","\u041f\u0422","\u041f\u0435\u0440\u0435\u043a\u0430\u0447\u043a\u0430","\u0420\u0424\u0424\u0418","\u04222\u0410","\u0426\u0421\u0423","\u0430\u043d\u0430\u043b\u0438\u0437","\u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043d\u044b\u0439","\u0431\u0430\u0442\u0430\u0440\u0435\u044f","\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430","\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438","\u0432\u0435\u0431-\u0436\u0443\u0440\u043d\u0430\u043b","\u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440","\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0435","\u0432\u0440\u0435\u043c\u044f","\u0433\u0438\u0441\u0442\u043e\u0433\u0440\u0430\u043c\u043c\u044b","\u0434\u0430-\u043d\u0435\u0442","\u0436\u0438\u0432\u043e\u0435","\u0436\u0443\u0440\u043d\u0430\u043b","\u0437\u0430\u0432\u0438\u0441\u0430\u043d\u0438\u0435","\u0437\u0430\u0434\u0430\u043d\u0438\u044f","\u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0430","\u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0438","\u0437\u0430\u043a\u0443\u043f\u043a\u0438","\u0437\u0430\u043f\u0443\u0441\u043a","\u0437\u0430\u0445\u043e\u0434","\u0437\u0430\u0445\u043e\u0434\u043e\u0432","\u0437\u0430\u0445\u043e\u0434\u044b","\u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f","\u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b","\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441","\u0438\u0441\u0442\u043e\u0440\u0438\u044f","\u043a\u0430\u043b\u0438\u0431\u0440\u043e\u0432\u043a\u0430","\u043a\u0430\u043b\u0438\u0431\u0440\u043e\u0432\u043a\u0438","\u043a\u0430\u043b\u043e\u0440\u0438\u043c\u0435\u0442\u0440","\u043a\u0430\u043b\u043e\u0440\u0438\u043c\u0435\u0442\u0440\u0430","\u043a\u0430\u043c\u0430\u043a","\u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0430","\u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0438","\u043a\u0432\u043e\u0442\u0430","\u043a\u043b\u0430\u0441\u0442\u0435\u0440","\u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u044f","\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435","\u043b\u0435\u043d\u0442\u044b","\u043b\u043e\u0433-\u0436\u0443\u0440\u043d\u0430\u043b","\u043b\u043e\u0433-\u0444\u0430\u0439\u043b","\u043c\u0435\u0440\u0442\u0432\u043e\u0435","\u043c\u043d\u043e\u0433\u043e\u043f\u043e\u0442\u043e\u0447\u043d\u044b\u0439","\u043d\u043e\u043c\u0435\u0440","\u043e\u0441\u0446\u0438\u043b\u043b\u043e\u0433\u0440\u0430\u0444","\u043e\u0442\u0441\u0447\u0435\u0442","\u043e\u0448\u0438\u0431\u043a\u0430","\u043f\u0435\u0440\u0435\u043a\u0430\u0447\u043a\u0430","\u043f\u0435\u0440\u0435\u0441\u0447\u0435\u0442\u043a\u0438","\u043f\u0435\u0440\u0435\u0441\u0447\u0451\u0442\u043a\u0438","\u043f\u0435\u0447\u0430\u0442\u044c","\u043f\u0438\u0442\u0430\u043d\u0438\u0435","\u043f\u043b\u0430\u0442\u0430","\u043f\u043e\u0440\u0442\u044b","\u043f\u043e\u0442\u0435\u0440\u0438","\u043f\u0440\u0438\u043d\u0442\u0435\u0440","\u043f\u0440\u043e\u043a\u0441\u0438","\u043f\u0440\u043e\u043f\u0443\u0441\u043a\u0438","\u043f\u0440\u043e\u0441\u043a\u043e\u043a","\u043f\u0440\u043e\u0442\u043e\u043d\u044b","\u043f\u044c\u0435\u0434\u0435\u0441\u0442\u0430\u043b\u043e\u0432","\u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0430","\u0440\u0430\u0441\u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0438\u0432\u0430\u043d\u0438\u0435","\u0440\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435","\u0440\u0438\u0434\u0430\u0443\u0442","\u0440\u0443\u043a\u043e\u043f\u0438\u0441\u043d\u044b\u0439","\u0440\u0443\u0441\u0441\u043a\u0438\u0439","\u0441\u0432\u0435\u0442\u043e\u0441\u0431\u043e\u0440","\u0441\u0432\u044f\u0437\u044c","\u0441\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f","\u0441\u0435\u0440\u0438\u0438","\u0441\u0435\u0442\u044c","\u0441\u0436\u0430\u0442\u0438\u0435","\u0441\u0438\u0440\u0435\u043d\u0430","\u0441\u043e\u0431\u044b\u0442\u0438\u044f","\u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430","\u0441\u0442\u0440\u043e\u0431","\u0441\u0447\u0435\u0442\u0447\u0438\u043a","\u0441\u0447\u0451\u0442\u0447\u0438\u043a","\u0442\u0430\u043a\u0442\u043e\u0432\u0430\u044f","\u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430","\u0442\u0438\u043a\u0435\u0442\u044b","\u0442\u0440\u0438\u0433\u0433\u0435\u0440","\u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430","\u0444\u0430\u0437\u0430","\u0444\u0430\u0437\u044b","\u0444\u0435\u0440\u043c\u044b","\u0447\u0430\u0441\u0442\u043e\u0442\u0430","\u0447\u0438\u0441\u0442\u0438\u043b\u044c\u0449\u0438\u043a","\u044d\u043d\u0435\u0440\u0433\u043e\u0432\u044b\u0434\u0435\u043b\u0435\u043d\u0438\u0435"],"match_from_start":"","separator":" "};
+      var auto_preview_timeout=2.0;
+      var _tracdragdrop={"base_url":"/trac/","can_create":true,"max_size":52428800,"new_url":"/trac/tracdragdrop/new/wiki/SND2K/Data/MHAD2017-6","no_image_msg":"No image \"%(id)s\" attached to %(parent)s","parent_name":"SND2K/Data/MHAD2017-6","raw_parent_url":"/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/"};
+    </script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/babel.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/trac.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/search.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/wikitoolbar.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/resizer.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/auto_preview.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/folding.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tags/js/autocomplete_tags.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui-addons.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui-i18n.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tracdragdrop/tracdragdrop.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/movie/js/flowplayer.min.js"></script>
+    <script type="text/javascript">
+      jQuery("#trac-noscript").remove();
+      jQuery(document).ready(function($) {
+        $(".trac-autofocus").focus();
+        $(".trac-target-new").attr("target", "_blank");
+        if ($.ui) { /* is jquery-ui added? */
+          $(".trac-datepicker:not([readonly])").prop("autocomplete", "off").datepicker();
+          $(".trac-datetimepicker:not([readonly])").prop("autocomplete", "off").datetimepicker();
+          $("#main").addClass("trac-nodatetimehint");
+        }
+        $(".trac-disable").disableSubmit(".trac-disable-determinant");
+        setTimeout(function() { $(".trac-scroll").scrollToTop() }, 1);
+        $(".trac-disable-on-submit").disableOnSubmit();
+      });
+    </script>
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $("#text").blur(function() {
+          $("#scroll_bar_pos").val(this.scrollTop);
+        }).get(0).scrollTop = $("#scroll_bar_pos").val();
+        $("#editrows").change(function() {
+          resizeTextArea("text", this.options[this.selectedIndex].value);
+        });
+        $("#sidebyside").change(function() {
+          $("#edit input[type=submit][name=preview]").click();
+        });
+        $(".foldable").enableFolding(true, true);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="banner">
+      <div id="header">
+        <h1><a href="">СНД2000</a></h1>
+      </div>
+      <form id="search" action="/trac/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first">logged in as <span class="trac-author-user">petrovam</span></li><li><form action="/trac/logout" class="trac-logout" id="logout" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="35e3dfb8bcf9b17047f64496" /></div><div><button type="submit" name="logout">Logout</button></div></form></li><li><a href="/trac/wiki/TracGuide">Help/Guide</a></li><li><a href="/trac/about">About Trac</a></li><li><a href="/trac/prefs">Preferences</a></li><li class="last"><a href="/trac/rpc">API</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first active"><a href="/trac/wiki">Wiki</a></li><li><a href="/trac/timeline">Timeline</a></li><li><a href="/trac/browser">Browse Source</a></li><li><a href="/trac/report">View Tickets</a></li><li><a href="/trac/newticket">New Ticket</a></li><li><a href="/trac/search">Search</a></li><li><a href="/trac/roadmap">Roadmap</a></li><li class="last"><a href="/trac/tags">Tags</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="first"><a href="/trac/wiki/WikiStart">Start Page</a></li><li><a href="/trac/wiki/TitleIndex">Index</a></li><li class="last"><a href="/trac/wiki/SND2K/Data/MHAD2017-6?action=history">History</a></li>
+        </ul>
+        <hr />
+      </div>
+    <div id="content" class="wiki">
+      <h1>Editing SND2K/Data/MHAD2017-6</h1>
+        
+  <form id="edit" class="mod" action="/trac/wiki/SND2K/Data/MHAD2017-6" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="35e3dfb8bcf9b17047f64496" /></div>
+    <fieldset>
+      <input type="hidden" name="from_editor" value="1" />
+      <input type="hidden" name="action" value="edit" />
+      <input type="hidden" name="version" value="8" />
+      <input type="hidden" id="scroll_bar_pos" name="scroll_bar_pos" value="" />
+      <div id="rows">
+          <label for="editrows">Adjust edit area height:</label>
+          <select size="1" name="editrows" id="editrows" tabindex="43">
+            <option value="8">
+              8
+            </option><option value="12">
+              12
+            </option><option value="16">
+              16
+            </option><option value="20" selected="selected">
+              20
+            </option><option value="24">
+              24
+            </option><option value="28">
+              28
+            </option><option value="32">
+              32
+            </option><option value="36">
+              36
+            </option><option value="40">
+              40
+            </option>
+          </select>
+        <label for="sidebyside" title="Selecting and pressing 'Preview' enters a two-column [edit|preview] mode">
+          Edit side-by-side
+        </label>
+        <input type="checkbox" name="sidebyside" id="sidebyside" />
+      </div>
+      <p><textarea id="text" class="wikitext trac-autofocus trac-fullwidth trac-resizable" name="text" cols="80" rows="20">
+  = `MHAD2017-6`
+
+== Особенности
+- В части заходов (~10%) первый слой ДК и половина второго внесены в dcwblack (см. [ticket:1077#comment:12 тикет 1077 ком.8 и 12]).\\ По этой причине эта версия плохо подходит для обработки заряженных каналов, так как плохо контролируется эффективность реконструкции треков на малых углах.
+- В заходах 29002-29107 4 канала полосок (65-68) занесены в black ([ticket:990#comment:8 см. тикет 990 ком.8])
+- Для моделирования наложений нужно использовать поток gc2. См. тикет #1017, а также [wiki:SND2K/TuesdaySeminar/2018-04-03-kardapoltsev см. вторничный семинар].
+- Для первых четырех точек по энергии (E=850, 860,870,880 МэВ) использовать наложения из точки 890 МэВ. То есть для заходов 25525-26287 используем наложения из 26293-26458. В остальных случаях используем свои наложения. Подробности см. [wiki:SND2K/TuesdaySeminar/2018-04-03-kardapoltsev в материалах вторничного семинара].
+- В данном сканировании довольно большое количество шумящих каналов калориметра. Ввиду их большого числа было решено не вносить все в naiblack, а внести только неработающие каналы (провалы). 
+- Проблемы в работе мюонной системы:
+  * Заходы, которые не следует использовать (нужно исключить из перекачки):
+     * 27231 - высокое на трубках выключилось во время захода, 28526-28542 - не работали трубки и счетчики (выключился ВВИ трубок, возможно, что и счетчиков тоже);
+     * 29037, 29051, 29437 - очень короткие заходы, не работало большинство трубок и счетчиков.
+  * Заходы, не рекомендуемые к использованию (возможно, тоже нужно исключить из перекачки):
+     * 29007, 29015 - провалена эффективность TU03 до 0.25.
+     * 26458 - отказ AC18
+     * 28980, 29151-29155, 29230-29234, 29241-29309 - отказ AC3
+     * 29323-29328, 29337-29461 - отказ AC5
+  * Заходы "под сомнением" (использование на усмотрение обработчика):
+     * 27241, 27262, 27895, 27949, 27984, 28091, 28093, 28241, 28432, 28525 - сниженная до 0.7-0.9 эффективность трубок.
+- Много коротких заходов, которые не были выброшены из сканирования #3257 
+- Заходы, которые были удалены после перечачки: #3264
+- Список заходов, которые сильно выпадают на графиках, приведены после соответствующих картинок.
+
+== Основная информация
+|| **сканирование** || **тэг**    || **заходы**   || **релиз** ||     **путь**            ||
+|| MHAD2017         || MHAD2017-6 || 25525..29461 || R008-002  || /online/proc2/MHAD2017-6||
+
+распределение заходов по энергетическим точкам:
+|| **энергия** || **индекс** || **интерграл светимости (нб^-1^)**  || **начальный заход** || **конечный заход** || **время (начало)**  || **время (конец)**   ||
+||    МэВ      ||            ||        **приблизительный**         ||                     ||                    ||                     ||                     || 
+||   641.0     ||     0      ||	          3831	                   ||       29270	  ||      29461         || 2017-06-22 12:15:57 || 2017-07-03 04:31:41 ||
+||   650.0     ||     0	     ||           1167	                   ||       29197	  ||      29268         || 2017-06-17 15:55:44 || 2017-06-22 07:05:33 ||
+||   675.0     ||     0	     ||           1561	                   ||       29111         ||      29196	        || 2017-06-14 00:04:10 || 2017-06-17 14:09:37 ||
+||   700.0     ||     0	     ||           1066	                   ||       29048	  ||      29107	        || 2017-06-11 18:47:52 || 2017-06-13 08:37:01 ||
+||   725.0     ||     0	     ||           1280	                   ||       28981         ||      29047         || 2017-06-09 15:59:41 || 2017-06-11 15:37:16 ||
+||   750.0     ||     0	     ||           1058                     ||	    28908	  ||      28980	        || 2017-06-07 16:18:23 || 2017-06-09 15:57:31 ||
+||   775.0     ||     0	     ||            811	                   ||       28871         ||	  28907	        || 2017-06-06 04:25:17 || 2017-06-07 08:11:38 ||
+||   800.0     ||     0	     ||           1207                     ||       28783	  ||      28852	        || 2017-06-03 18:46:41 || 2017-06-05 08:26:36 ||
+||   825.0     ||     0	     ||           1223	                   ||       28712	  ||      28782	        || 2017-06-01 15:19:56 || 2017-06-03 17:12:28 ||
+||   840.0     ||     0	     ||           1135                     ||	    28641         ||	  28704	        || 2017-05-30 03:19:26 || 2017-06-01 08:13:08 ||
+||   850.0     ||     0	     ||           1112                     ||	    25525	  ||      25958         || 2017-01-29 01:47:09 || 2017-02-10 15:41:24 ||
+||   860.0     ||     0	     ||            990                     ||	    25961	  ||      26052	        || 2017-02-10 17:03:31 || 2017-02-13 06:59:57 ||
+||   870.0     ||     0	     ||           1146	                   ||       26054         ||      26147	        || 2017-02-13 22:31:35 || 2017-02-16 07:56:44 ||
+||   880.0     ||     0	     ||           1164	                   ||       26156         ||      26287	        || 2017-02-16 22:01:02 || 2017-02-22 02:20:02 ||
+||   890.0     ||     0	     ||           1515	                   ||       26293	  ||      26458	        || 2017-02-22 20:48:30 || 2017-02-27 06:23:11 ||
+||   900.0     ||     0	     ||           1131	                   ||       26463	  ||      26529         || 2017-02-27 20:40:09 || 2017-03-02 06:39:04 ||
+||   910.0     ||     0	     ||           1196	                   ||       26531         ||      26624	        || 2017-03-02 17:38:16 || 2017-03-04 18:47:45 ||
+||   920.0     ||     0	     ||           1303                     ||	    26625	  ||      26701	        || 2017-03-04 20:18:47 || 2017-03-06 08:34:36 ||
+||   930.0     ||     0	     ||           1509	                   ||       26710	  ||      26814	        || 2017-03-07 05:27:31 || 2017-03-09 08:49:41 ||
+||   936.0     ||     0	     ||            564	                   ||       26817	  ||      26953	        || 2017-03-09 22:48:16 || 2017-03-13 08:28:34 ||
+||   936.0     ||     1	     ||            897	                   ||       27054	  ||      27335	        || 2017-03-23 20:55:35 || 2017-04-04 15:23:40 ||
+||   937.5     ||     0	     ||           1373	                   ||       28322	  ||      28431	        || 2017-05-15 18:57:45 || 2017-05-18 13:44:55 ||
+||   937.5     ||     1	     ||           1319	                   ||       28522	  ||      28561	        || 2017-05-21 07:18:40 || 2017-05-22 08:28:28 ||
+||   938.3     ||     0	     ||           2845                     ||	    28229	  ||      28313	        || 2017-05-12 15:52:44 || 2017-05-15 08:33:14 ||
+||   938.9     ||     0      ||	          1662	                   ||       27951	  ||      28055	        || 2017-05-03 12:50:26 || 2017-05-06 14:49:16 ||
+||   939.6     ||     0	     ||           1919	                   ||       28056	  ||      28155         || 2017-05-07 13:38:16 || 2017-05-09 18:56:14 ||
+||   940.2     ||     0	     ||           2095	                   ||       28156	  ||      28227	        || 2017-05-09 20:18:02 || 2017-05-12 08:32:18 ||
+||   940.8     ||     0	     ||           1700	                   ||       28432         ||	  28519	        || 2017-05-18 14:11:48 || 2017-05-21 06:34:30 ||
+||   942.0     ||     0	     ||           1406	                   ||       27336	  ||      27420	        || 2017-04-04 15:25:59 || 2017-04-08 08:29:03 ||
+||   950.0     ||     0	     ||            955	                   ||       27429	  ||      27490	        || 2017-04-08 14:45:19 || 2017-04-11 08:33:40 ||
+||   960.0     ||     0	     ||           1239	                   ||       27499	  ||      27578	        || 2017-04-11 19:09:29 || 2017-04-14 08:31:05 ||
+||   970.0     ||     0	     ||           1744                     ||	    27583	  ||      27658	        || 2017-04-14 22:10:10 || 2017-04-17 08:37:03 ||
+||   980.0     ||     0	     ||           1183	                   ||       27665	  ||      27718	        || 2017-04-18 01:56:33 || 2017-04-19 07:56:28 ||
+||   990.0     ||     0	     ||           1142                     ||	    27720         ||	  27764	        || 2017-04-19 18:23:28 || 2017-04-21 08:26:38 ||
+||  1000.0     ||     0	     ||           2861                     ||	    27769	  ||      27949	        || 2017-04-21 20:29:17 || 2017-05-01 10:21:10 ||
+
+== Связанные тикеты
+- MHAD2017-5, обрезание заходов и удаление плохих заходов #1149
+- Заходы с низкой эффективностью ДК в сканировании MHAD2017 #1077
+- MHAD2017: Провалы в числах заполнения калориметра #1044
+- Калибровки ipoint и naietthr для MHAD2017-6 #3257
+- Проверка fwk файла (и сопутствующих настроек) для MHAD2017-6 #3243
+
+== Зависимость различных параметров от номера захода
+- Отношение числа событий Nee/Ngg \\ \\ [[Image(Nee2Ngg.png,70%)]]\\
+   Что было в MHAD2017-5: https://wwwsnd.inp.nsk.su/trac/attachment/wiki/SND2K/Data/MHAD2017-5/Nee2Ngg.png\\ \\
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий bebe36 \\ \\ [[Image(EtonMean.png,70%)]] \\
+  Eton&lt;0.8 для захода 27335. \\ \\
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий bebe36 из подгонки \\ \\ [[Image(EtonMeanF.png,70%)]] \\
+  Etot&gt;1 для заходов 28852,29112,29113,29256,29274,29324,29325,29327,29328,29346,29374,29411,29432. \\ \\
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий cbebe на малые углы \\ \\ [[Image(EtonMeanLA.png,70%)]] \\ \\
+- Минимальная эффективность слоя дрейфовой камеры \\ \\ [[Image(DCEff.png,70%)]]\\
+  Равна нулю для заходов 25861,25864,25866,25869,25872,25875,26003,26006,26020,26026,26030..26033,26036,26041,26046..26048,26078,26084,26102,26124,26131,26142,26169,26174,\\
+  26176,26178..26179,26182,26184,26185..26187,26195,26196,26239,26297,26398,26481,26537,26539,26710..26712,26714,26723..26725,26730,26742,26745,26751,26770,26774,26778,\\
+  26779,26784,26786,26788,26793,26796,26806,26818,26824,26826,26827,26830,26835,26841..26849,26853,26855..26858,26865..26870,26872..26882,26885,26887,26889..26892,26895,\\
+  26896,26898..26900,26902..26907,26909,26914,26916..26921,26925..26928,26931..26936,26939..26941,26945,26947,26949,26950..26952,27061,27240,27364,27368,27371,27392,27393,\\    
+  27395,27397,27399,27401,27402,27406,27408,27410,27416,27433,27451,27453,27457,27458,27485,27511,27513,27516,27517,27524,27530,27575,27576,27604,27608,27609,27611..27613,\\
+  27619,27620,27621,27624..27627,27629,27638..27642,27652,27653,27655,27665..27668,27670..27701,27705,27706,27710,27713..27715,27717,27718,27731,27733,27735,27738,27740,\\
+  27743..27747,27749,27752,27756,27757,27761,27773,27775,27778,28353,28356,28357,28360..28363,28365,28368,28369,28372,28374..28376,28378..28380,28382,28385,28499,28546,\\
+  28641..28643,28645,28648,28651,28664..28668,28670,28671,28677,28689,28690,28698,28700,28704,28725,28764,28766,28767,28770,28777,28782,28783,28786,28789,28793,28796,28797,\\
+  28801,28809,28811,28815,28816,28818,28821,28828,28829,28831,28832,28835..28837,28849,28850,28872,28876..28878,28888,28892,28893. \\
+  Что было в MHAD2017-5  https://wwwsnd.inp.nsk.su/trac/attachment/wiki/SND2K/Data/MHAD2017-5/DCEff.png \\
+  Что было в MHAD2017-4  https://wwwsnd.inp.nsk.su/trac/attachment/wiki/SND2K/Data/MHAD2017-4/DCEff.png \\ \\
+- RMS dtheta для событий bebe36 \\ \\ [[Image(dthetaRMS.png,70%)]]\\
+   \\ \\
+- ширина на полувысоте для dtheta для событий bebe36 \\ \\ [[Image(dthetaHWHM.png,70%)]]
+- RMS dphi для событий bebe36 \\ \\ [[Image(dphiRMS.png,70%)]]\\
+   \\ \\
+- ширина на полувысоте для dphi для событий bebe36 \\ \\ [[Image(dphiHWHM.png,70%)]]
+- Относительная разность максимума от среднего значения для распределения по $\phi$ для событий bebe36 (проверка на однородность распределения по phi) \\ \\ [[Image(phi_chi2ndf.png,70%)]]\\
+  Что было в MHAD2017-5 https://wwwsnd.inp.nsk.su/trac/attachment/wiki/SND2K/Data/MHAD2017-5/phi_chi2ndf.png
+- RMS разности z-координат для треков от рассеяния Баба \\ \\ [[Image(dztr1.png,70%)]]\\
+    \\ \\
+- Количество событий с наложениями \\ \\ [[Image(Ngcl.png,70%)]] \\
+  Для моделирования наложений нужно использовать поток gc2. См. тикет #1017, а также [wiki:SND2K/TuesdaySeminar/2018-04-03-kardapoltsev см. вторничный семинар]. \\ \\
+- Эффективность черенковского счетчика \\ \\ [[Image(AGEff.png,70%)]]\\
+  0.2&lt;AGEff&lt;0.75 в заходах 26174,26181,26185,26196,26207,26232,26280,26281,26286,26297,26301,26305,26324,26374,26402,26412,26507,26509,26550,26664,26753,26760,26802,26817,26818,26823,\\
+  26825,26826,26827,26828,26830,26831,26834,26835,26841,26845,26846,26847,26848,26849,26850,26851,26852,26853,26855,26857,26858,26859,26860,26861,26862,26865,26866,26867,26868,26869,\\
+  27222,27223,27711,27825,28016,28127,28390,28791,28850,28901,28921,28927,28928,28929,29249. \\ \\
+  0&lt;AGEff&lt;0.2 в заходах 26156..26167,26872,26876..26878,26882,26884,26885,26887,26890,26891,26895,26898,26899,26900,26902,26906,26909,26920,26926,26927,26929,26930,26934,26935,26936,26945,26946,26949,26951.\\ \\
+  Не работал в кластере 25525-26169, в заходах  26182,26186,26272,26287,26317,26377,26458,26542,26665,26747,26824,26836,26842,26864,26870, в кластере 26872-26953, в заходах 27207,27477,27478,27479..27490,\\
+  27716,27734,28021,28148,28260,28366,28744,28813,28910,28980.\\ \\
+  Доклад К.И. Белобородова 25.04.2017 "Статус аэрогелевого счетчика": https://wwwsnd.inp.nsk.su/trac/wiki/SND2K/TuesdaySeminar/2017-04-25-beloborodov \\ \\
+- Эффективность внешней системы (трубки) \\ \\ [[Image(TUEff.png,70%)]]\\
+  0&lt;TUEff&lt;0.9 в заходах 25613,26432,26469,26472,26697,26788,27231,27895,28432,28525,28542,28916,28975,29007,29015,29135. \\ \\
+  Равна нулю в заходах 25702,25820,25886,25903,25915,25954,26101,26127,26185,26186,26207,26402,26412,26458,26542,26665,26747,26760,26880,26911,26947,27207,27217,27220,27242,27419,27453,27567,27656,27703,\\
+  27707,27711,27716,27731,27734,27814,27825,27968,28016,28021,28101,28260,28351,28366,28390,28465..28541,28697,28712,28715,28744,28758,28791,28806,28810,28833,28846,28874..28877,28901,28910,28912,28913,\\
+  28915,28918,28923,28928,28942,28944,28946,28947,28949,28955,28965,28971..28973,28978,28980,28983..28985,28987,28989,28990,28992..28996,29000..29002,29005,29009,29010,29019,29024..29028,29030..29034,29036,\\
+  29038,29040,29041,29044,29045,29048,29054..29059,29061,29064,29066,29068..29070,29074,29078..29087,29089,29090,29093,29094,29096,29098,29099,29101,29103,29105,29107,29111,29113,29129,29133,29137,29141, \\
+  29142,29146,29151,29155,29157,29159,29161,29163,29166,29167,29169,29170,29171,29173,29175,29180,29182,29183,29185,29192,29195,29197,29198,29200,29202,29203,29205,29214..29216,29219,29222,29230,29231, \\
+  29234,29235..29237,29241,29244,29247,29249,29250,29252,29360. \\ \\ 
+- Работа внешней системы (сцинтилляционные счетчики) \\ \\ [[Image(AC.png,70%)]]\\
+  Не работал в заходах 28526,28527,28529,28530,28531,28532,28533,28534,28535,28536,28537,28538,28539,28540,28541,28980,29151,29155,29230,29231,29234,29241,29242,29243,29244,29246,29247,29248,29249,29250. \\</textarea>
+      </p>
+      <div id="help"><strong>Note:</strong> See <a href="/trac/wiki/WikiFormatting">WikiFormatting</a> and
+        <a href="/trac/wiki/TracWiki">TracWiki</a> for help on editing wiki content.</div>
+    </fieldset>
+    <fieldset id="changeinfo">
+      <legend>Change information</legend>
+      <div id="changeinfo1">
+        <div class="field">
+          <label>Comment about this change (optional):<br />
+            <input id="comment" type="text" class="trac-fullwidth wikitext" name="comment" value="" />
+          </label>
+        </div>
+      </div>
+    </fieldset>
+    <div class="buttons">
+        <input type="submit" name="preview" value="Preview Page" /> 
+        <input type="submit" name="diff" value="Review Changes" /> 
+        <input type="submit" id="save" name="save" class="trac-disable-on-submit" value="Submit changes" /> 
+      <input type="submit" name="cancel" value="Cancel" />
+    </div>
+  </form>
+
+      
+    <div id="attachments">
+        <h3 class="foldable">Attachments <span class="trac-count">(15)</span></h3>
+        <div>
+          <ul>
+            <li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/AC.png" title="View attachment">AC.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/AC.png" class="trac-rawlink" title="Download">​</a> (<span title="14348 bytes">14.0 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A35%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:35 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/AGEff.png" title="View attachment">AGEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/AGEff.png" class="trac-rawlink" title="Download">​</a> (<span title="20905 bytes">20.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A35%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:35 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/DCEff.png" title="View attachment">DCEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/DCEff.png" class="trac-rawlink" title="Download">​</a> (<span title="19794 bytes">19.3 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A36%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:36 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/dphiHWHM.png" title="View attachment">dphiHWHM.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/dphiHWHM.png" class="trac-rawlink" title="Download">​</a> (<span title="25985 bytes">25.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A36%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:36 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/dphiRMS.png" title="View attachment">dphiRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/dphiRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="30471 bytes">29.8 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A37%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:37 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/dthetaHWHM.png" title="View attachment">dthetaHWHM.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/dthetaHWHM.png" class="trac-rawlink" title="Download">​</a> (<span title="25025 bytes">24.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A37%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:37 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/dthetaRMS.png" title="View attachment">dthetaRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/dthetaRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="32252 bytes">31.5 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A38%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:38 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/dztr1.png" title="View attachment">dztr1.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/dztr1.png" class="trac-rawlink" title="Download">​</a> (<span title="29273 bytes">28.6 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A38%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:38 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/EtonMean.png" title="View attachment">EtonMean.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/EtonMean.png" class="trac-rawlink" title="Download">​</a> (<span title="27606 bytes">27.0 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A38%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:38 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/EtonMeanF.png" title="View attachment">EtonMeanF.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/EtonMeanF.png" class="trac-rawlink" title="Download">​</a> (<span title="29406 bytes">28.7 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A39%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:39 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/Nee2Ngg.png" title="View attachment">Nee2Ngg.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/Nee2Ngg.png" class="trac-rawlink" title="Download">​</a> (<span title="30085 bytes">29.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A40%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:40 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/Ngcl.png" title="View attachment">Ngcl.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/Ngcl.png" class="trac-rawlink" title="Download">​</a> (<span title="14681 bytes">14.3 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A40%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:40 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/phi_chi2ndf.png" title="View attachment">phi_chi2ndf.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/phi_chi2ndf.png" class="trac-rawlink" title="Download">​</a> (<span title="30984 bytes">30.3 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A41%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:41 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/TUEff.png" title="View attachment">TUEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/TUEff.png" class="trac-rawlink" title="Download">​</a> (<span title="21159 bytes">20.7 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-26T18%3A30%3A41%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 26, 2023 at 6:30:41 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/MHAD2017-6/EtonMeanLA.png" title="View attachment">EtonMeanLA.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/MHAD2017-6/EtonMeanLA.png" class="trac-rawlink" title="Download">​</a> (<span title="35517 bytes">34.7 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2023-12-28T11%3A19%3A04%2B07%3A00&amp;precision=second" title="See timeline 12 months ago">on Dec 28, 2023 at 11:19:04 AM</a>.
+            </li>
+          </ul>
+          <p>
+            Download all attachments as: <a rel="nofollow" href="/trac/zip-attachment/wiki/SND2K/Data/MHAD2017-6/">.zip</a>
+          </p>
+        </div>
+    </div>
+
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="https://trac.edgewall.org/"><img src="/trac/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/trac/about"><strong>Trac 1.2.5</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">Visit the Trac open source project at<br /><a href="http://trac.edgewall.org/">http://trac.edgewall.org/</a></p>
+    </div>
+  </body>
+</html>

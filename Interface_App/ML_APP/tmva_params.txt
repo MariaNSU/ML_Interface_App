@@ -1,0 +1,7 @@
+discriminators: ["HMatrix", "Fisher"]
+signal: ["mc22"]
+backgrounds: ["KsKlpi022"]
+ntuples_vars: ["etot", "x2ikf3", "beam"]
+selections_signal: ["CutV25==1 && x2ikf3<1000"]
+selections_back: ["CutV25==1 && x2ikf3<1000"]
+

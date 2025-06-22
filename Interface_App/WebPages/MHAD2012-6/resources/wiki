@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+
+  <head>
+    <title>
+      СНД2000
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+          <link rel="search" href="/trac/search" />
+          <link rel="help" href="/trac/wiki/TracGuide" />
+          <link rel="alternate" href="/trac/wiki/WikiStart?format=txt" type="text/x-trac-wiki" title="Plain Text" />
+          <link rel="start" href="/trac/wiki" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/trac.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/wiki.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/tracdragdrop/tracdragdrop.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/movie/js/skin/minimalist.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/tags/css/tractags.css" type="text/css" />
+          <link rel="icon" href="/trac/chrome/common/trac.ico" type="image/x-icon" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+      <link type="application/opensearchdescription+xml" rel="search" href="/trac/search/opensearch" title="Search СНД2000" />
+    <script type="text/javascript">
+      var _tracdragdrop={"base_url":"/trac/","can_create":false,"max_size":52428800,"new_url":"/trac/tracdragdrop/new/wiki/WikiStart","no_image_msg":"No image \"%(id)s\" attached to %(parent)s","parent_name":"WikiStart","raw_parent_url":"/trac/raw-attachment/wiki/WikiStart/"};
+      var form_token="4dd6008ac8b17e2b57674b22";
+    </script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/babel.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/trac.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/search.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/folding.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tracdragdrop/tracdragdrop.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/movie/js/flowplayer.min.js"></script>
+    <script type="text/javascript">
+      jQuery("#trac-noscript").remove();
+      jQuery(document).ready(function($) {
+        $(".trac-autofocus").focus();
+        $(".trac-target-new").attr("target", "_blank");
+        if ($.ui) { /* is jquery-ui added? */
+          $(".trac-datepicker:not([readonly])").prop("autocomplete", "off").datepicker();
+          $(".trac-datetimepicker:not([readonly])").prop("autocomplete", "off").datetimepicker();
+          $("#main").addClass("trac-nodatetimehint");
+        }
+        $(".trac-disable").disableSubmit(".trac-disable-determinant");
+        setTimeout(function() { $(".trac-scroll").scrollToTop() }, 1);
+        $(".trac-disable-on-submit").disableOnSubmit();
+      });
+    </script>
+    <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $("#content").find("h1,h2,h3,h4,h5,h6").addAnchor(_("Link to this section"));
+        $("#content").find(".wikianchor").each(function() {
+          $(this).addAnchor(babel.format(_("Link to #%(id)s"), {id: $(this).attr('id')}));
+        });
+        $(".foldable").enableFolding(true, true);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="banner">
+      <div id="header">
+        <h1><a href="">СНД2000</a></h1>
+      </div>
+      <form id="search" action="/trac/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first">logged in as <span class="trac-author-user">petrovam</span></li><li><form action="/trac/logout" class="trac-logout" id="logout" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="4dd6008ac8b17e2b57674b22" /></div><div><button type="submit" name="logout">Logout</button></div></form></li><li><a href="/trac/wiki/TracGuide">Help/Guide</a></li><li><a href="/trac/about">About Trac</a></li><li><a href="/trac/prefs">Preferences</a></li><li class="last"><a href="/trac/rpc">API</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first active"><a href="/trac/wiki">Wiki</a></li><li><a href="/trac/timeline">Timeline</a></li><li><a href="/trac/browser">Browse Source</a></li><li><a href="/trac/report">View Tickets</a></li><li><a href="/trac/newticket">New Ticket</a></li><li><a href="/trac/search">Search</a></li><li><a href="/trac/roadmap">Roadmap</a></li><li class="last"><a href="/trac/tags">Tags</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="pagepath" class="noprint">
+  <a class="pathentry first" title="View WikiStart" href="/trac/wiki">wiki:</a><a class="pathentry" href="/trac/wiki/WikiStart" title="View WikiStart">WikiStart</a>
+</div>
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="first"><a href="/trac/wiki/WikiStart">Start Page</a></li><li><a href="/trac/wiki/TitleIndex">Index</a></li><li class="last"><a href="/trac/wiki/WikiStart?action=history">History</a></li>
+        </ul>
+        <hr />
+      </div>
+    <div id="content" class="wiki">
+      <div class="wikipage searchable">
+        
+          <div id="wikipage" class="trac-content"><p>
+</p><div class="wiki-toc trac-nav"><h2><a href="https://svn.ipd.kit.edu/trac/javaparty/wiki/TracNav">TracNav</a></h2><ul><li><a class="wiki" href="/trac/wiki/SND2K">В начало</a></li><li><a class="wiki" href="/trac/wiki/SND2K/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D1%8B">Люди</a></li><li><a class="wiki" href="/trac/wiki/SND2K/CurrentRelease">Версия ПО</a></li><li><a class="wiki" href="/trac/wiki/SND2K/MonteCarlo">Моделирование</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/MonteCarlo/QuickStart">Быстрый старт</a></li><li><a class="wiki" href="/trac/wiki/SND2K/MonteCarlo/TriggerL3">Моделирование третичного триггера</a></li><li><a class="wiki" href="/trac/wiki/SND2K/MonteCarlo/Pileups">Наложения случайных срабатываний</a></li><li><a class="wiki" href="/trac/wiki/SND2K/MonteCarlo/StreamCuts">Условия отбора потоков перекачки</a></li></ul><li><a class="wiki" href="/trac/wiki/SND2K/Analysis">Анализ данных</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D1%80%D1%82">Быстрый старт</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F">Реконструкция(RecApp)</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/Getters">Параметры, доступные из задания</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/TLT">Учет третичного триггера при анализе</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/%D0%9F%D0%B0%D0%BA%D0%B5%D1%82Offline">Описание файлов в пакете Offline</a></li><li><a class="wiki" href="/trac/wiki/Personal/NatalyaMelnikova/emcTimeManual">Работа с Z24 временем калориметра в фреймворке СНД</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/Misc">Разное...</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/Recolist">Доступ к данным о заходах: пакет recolist (R006-004+)</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/WebGetter">Доступ к множеству параметров заходов (R008-001+)</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/ClbGetters">Доступ к данным калибровок: clbtrend и др. (R008-002+)</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/Answers">Вопросы и ответы</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/MiscLinks">Справочники, учебники и т.д.</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/FIT">О пакете FIT</a></li></ul></ul><li><a class="wiki" href="/trac/wiki/SND2K/Data">Описание данных по годам и сканированиям</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Develop">Разработка</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Develop/SvnSlides">Краткое пособие по SVN</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Develop/SUMO">Среда исполнения (framework) СУМО</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Develop/SUMO/Overview">Концептуальное описание </a></li><li><a class="wiki" href="/trac/wiki/SND2K/Develop/SUMO/FwkArgs">Передача параметров в fwk-файл</a></li></ul><li><a class="wiki" href="/trac/wiki/SND2K/Develop/Getters">О фабриках геттеров (&gt; R005-999)</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Develop/CustomSequence">Место для своих модулей</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Develop/PublishToRelease">Публикация изменений в релизе</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Develop/MiscLinks">Справочники, учебники и т.д.</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Develop/ReleaseNotes">Offline Release notes</a></li></ul><li><a class="wiki" href="/trac/wiki/SND2K/Computing">Общие компьютерные вопросы</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Computing/BatchExternal">Постановка заданий на внешний кластер</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Misc/Databases">Доступ к базам данных</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Computing/HostInteractive">Сервер для интерактивного анализа данных</a></li></ul><li><a class="wiki" href="/trac/wiki/SND2K/Detector">Специфическая документация по детекторам</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Detector/NaI">Электромагнитный калориметр</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Detector/DC">Трековая система</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Detector/ACC">Аэрогелевый черенковский счетчик</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Detector/TU">Мюонная камера</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Detector/AC">Мюонные сцинтилляционные счетчики</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Detector/AC">Мюонные сцинтилляционные счетчики</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Detector/GS">Газовая система</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Detector/FLT">Первичный триггер</a></li></ul><li>Совещания</li><ul><li><a class="wiki" href="/trac/wiki/SND2K/TuesdaySeminar">Лабораторный семинар (вторник)</a></li><li><a class="wiki" href="/trac/wiki/SND2K/AnalysisMeeting">Совещание по анализу</a></li></ul><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/Reports">Отчеты о проделанной обработке</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/Reports/KirillSkovpen/NNbar">Отчет К.С. о моделировании анти-N</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/KardapoPileups2011">Отчет Л.К. о наложениях</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/PakhtusovaDZ-2013-03-20">Меморандум Е.В.П. о шумах DC MHAD2012</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/Estimates">Изучение детектора</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/FotonSystHarlamov">Систематика от числа фотонов</a></li><li><a class="wiki" href="/trac/wiki/SND2K/Analysis/Estimates/LuminosityResearch2011">Светимость MHAD2011</a></li></ul></ul><li><a class="wiki" href="/trac/wiki/SND2K/Misc">Разное</a></li><ul><li><a class="wiki" href="/trac/wiki/SND2K/Data/RevComptonEnergy">Таблица энергий для RHO2013</a></li></ul></ul></div><p>
+</p>
+<h1 id="ДобропожаловатьнастраницужалобипредложенияпрограммногообеспеченияСНД">Добро пожаловать на страницу жалоб и предложения программного обеспечения СНД!</h1>
+<h2 id="Небольшаяколлекциядокументововходеизвне.">Небольшая коллекция документов о входе извне.</h2>
+<ul><li><a class="wiki" href="/trac/wiki/Personal/ElenaPakhtusova/KakVoiti">Как войти в ИЯФ: руководство с картинками</a>
+</li><li><a class="wiki" href="/trac/wiki/Personal/KonstantinPugachev/SSHProxy">Настройка прокси для доступа к внутренним страницам ИЯФ (sndonline, irma etc.) через браузер</a>
+</li><li><a class="wiki" href="/trac/wiki/Personal/AleksandrKorol/RemoteMail">Как настроить получение почты из дома</a>
+</li></ul><h2 id="Введение">Введение</h2>
+<p>
+Система (<em>trac</em>) предназначена для регистрации проблем (<em>defects</em>) или предложений (<em>enhancements</em>), их текущего статуса, и просмотра. Есть другие типы запросов, но они предназначены для поддержки и их, как правило, использовать не следует. Это позволит разработчикам не только оперативно реагировать на запросы, но и не терять результаты исправлений. Система позволяет создавать, модифицировать и просматривать запросы (<em>tickets</em> в терминологии системы).
+</p>
+<p>
+Чтобы у Вас появилась возможность регистрировать новые ошибки --- нужно войти (<em>login</em>) в систему (учетная запись и пароль --- стандартные для <a class="ext-link" href="http://wwwsnd.inp.nsk.su/internal"><span class="icon">​</span>wwwsnd/internal</a>).
+</p>
+<p>
+В описании проблемы или предложения указывается:
+</p>
+<ul><li><a class="wiki" href="/trac/wiki/Trac%D0%A1%D0%9D%D0%94%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B">компонент</a>, к которому оно относится;
+</li><li>что это --- ошибка (<em>defect</em>) или запрос о новом функционале (<em>enhancement</em>);
+</li><li>насколько критично это для работы --- от <em>blocker</em> (работать невозможно), до <em>trivial</em> (просто небольшое неудобство).
+</li></ul><p>
+Если есть log-файл, задание (объемом менее 256 кбайт), их можно приложить как <em>attachement</em> (это лучше, чем просто указать, где лежит, т.к. не нужно потом заботиться о сохранении).
+</p>
+<p>
+В описании проблем, связанных с ПО СНД хорошо бы также указывать: 
+</p>
+<ul><li>рабочую директорию (полный путь);
+</li><li>релиз;
+</li><li>версии пакетов (если не из релиза) в рабочей директории;
+</li><li>полные имена входных файлов
+</li></ul><p>
+чем больше информации, тем больше шансов отследить проблему.
+</p>
+<p>
+В описании пожеланий следует привести аргументированную мотивацию, так как наши рабочие ресурсы крайне ограничены и хотелось бы иметь возможность оценить приоритет и возможность исполнения. 
+</p>
+<p>
+<em>Разумеется, прямые запросы руководства страны, института и лаборатории будут исполняться без критической оценки :)</em>
+</p>
+<h2 id="СтраницыдокументацииСНД">Страницы документации СНД</h2>
+<ul><li><strong><a class="wiki" href="/trac/wiki/SND2K">Обработка и анализ данных</a></strong>
+</li><li><strong><a class="wiki" href="/trac/wiki/Shifts">Дежурства</a></strong>
+</li><li><strong><a class="wiki" href="/trac/wiki/ONLINE">ССД и детектор</a></strong>
+</li><li><strong><a class="wiki" href="/trac/wiki/SYSADMIN">Администрация кластера</a></strong>
+</li></ul><h2 id="Полныйсписокдоступныхстраниц"><a class="wiki" href="/trac/wiki/TitleIndex">Полный список доступных страниц</a></h2>
+<h2 id="ДокументацияпопакетуTrac"><a class="wiki" href="/trac/wiki/TracGuide">Документация по пакету Trac</a></h2>
+</div>
+          
+          <div class="trac-modifiedby">
+            <span><a href="/trac/wiki/WikiStart?action=diff&amp;version=25" title="Version 25 by Aleksandr Korol">Last modified</a> <a class="timeline" href="/trac/timeline?from=2021-01-20T19%3A15%3A04%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Jan 20, 2021 at 7:15:04 PM</a></span>
+            <span class="trac-print">Last modified on Jan 20, 2021 7:15:04 PM</span>
+          </div>
+        
+        
+      </div>
+      
+
+          <div class="buttons">
+              <form method="get" action="/trac/wiki/WikiStart" id="modifypage">
+                <div>
+                  <input type="hidden" name="action" value="edit" />
+                </div>
+              </form>
+                
+          </div>
+    </div>
+    <script type="text/javascript">
+        jQuery.loadStyleSheet("/trac/chrome/tracnav/css/tracnav.css", "text/css");
+    </script>
+    <div id="altlinks">
+      <h3>Download in other formats:</h3>
+      <ul>
+        <li class="last first">
+          <a rel="nofollow" href="/trac/wiki/WikiStart?format=txt">Plain Text</a>
+        </li>
+      </ul>
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="https://trac.edgewall.org/"><img src="/trac/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/trac/about"><strong>Trac 1.2.5</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">Visit the Trac open source project at<br /><a href="http://trac.edgewall.org/">http://trac.edgewall.org/</a></p>
+    </div>
+  </body>
+</html>

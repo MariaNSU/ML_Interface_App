@@ -1,0 +1,320 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+
+  <head>
+    <title>
+      SND2K/Data/RHO_2024-0 (edit) – СНД2000
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+          <link rel="start" href="/trac/wiki" />
+          <link rel="search" href="/trac/search" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/trac.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/wiki.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/jquery-ui/jquery-ui.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/jquery-ui-addons.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/tracdragdrop/tracdragdrop.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/movie/js/skin/minimalist.css" type="text/css" />
+          <link rel="help" href="/trac/wiki/TracGuide" />
+          <link rel="icon" href="/trac/chrome/common/trac.ico" type="image/x-icon" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+      <link type="application/opensearchdescription+xml" rel="search" href="/trac/search/opensearch" title="Search СНД2000" />
+    <script type="text/javascript">
+      var form_token="70b8f4e915e6e02332eb11c8";
+      var jquery_ui={"ampm":true,"date_format":"M d, yy","day_names":{"abbreviated":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"narrow":["S","M","T","W","T","F","S"],"wide":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]},"default_timezone":null,"first_week_day":0,"month_names":{"abbreviated":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wide":["January","February","March","April","May","June","July","August","September","October","November","December"]},"period_names":{"am":["AM","AM"],"pm":["PM","PM"]},"show_timezone":false,"time_format":"h:mm:ss TT","timepicker_separator":" ","timezone_iso8601":false,"timezone_list":null};
+      var tags={"autocomplete_field":"tags","help_href":null,"help_new_window":false,"keywords":["1160","9","C7","CAEN","CERNROOT","DC","DC1","DQM","EL9","FLT","FLT1","G4","GENC","HDD","HP","L3","LaTeX","Linux","M104","MHAD2011","MHAD2020","MHAD2021","MHAD2024","MHAD2024-2","Mellanox","MySQL","NIC","OnlWeblog","PicAppOnl","R006-001","REVTeX","SMART","SND","SNDAS0","SQLparser","T200","TeX","VNC","Visualisation","Wiki","X11","a9","ac","access","accled","act","active","alarm","alma","alma9","backup","bandwidth","batch","bhabha","binp.local","bkg","cache","cact","caen","camProxyWatcher","camac","canon","centos","certificate","chamber","cherenkov","clb","cocna","container","control","cups","daq","database","db","dc","dczsig","development","documentation","domain","doxygen","driver","emc","empty","ems","error","eton","etot","event","events","firewalld","fit","flt","flt1","gcl","gen","genc","gepard","gist","glibc","gnome","hardware","high","hpcups","hplip","index","interface","interval","jambo","javaws","kafka","kinematic","klknet","korol","kurilin","l3","l3-1-obrazovsky","latex","letsencrypt","library","log","log-\u0436\u0443\u0440\u043d\u0430\u043b","lost","luminosity","manager","math","migrate","mixing","mpi_readout","mtu","multiplexer","multireadout","muon","naicosm","net","netboard","nfs","offline","online","parallel","pedestal","persistent","proxy","puma","pvv","readout","recolist","reconstruction","release","replica","rundbase","scalers","scanner","schedule","scintillator","screenshot","sctp","sctpproxy","server","simulation","slow","snd-msis","snd-ts","sndbc1","sndbc3","sndbc4","sndfarm03","sndfs","sndfs6h","sndfs7h","sndhw2","sndhw3","sndhw4","sndonline","sndoper","sndxt1","sndxt3","spam","sql","ssh","stdout","strip","students","subversion","switch","sysctl","t200","t2am","tape","temdbase","temview","test","thr","timeout","timezones","tube","tubes","tutorial","updates","usb","vepp2k","vepp5","visualisation","vm","voltage","weblog","wiki","windows","winows","wire","yesno","z200","z24","z24s","zoom","zyn","\u0412\u042d\u041f\u041f","\u0418\u0411\u041f","\u0418\u041a","\u0418\u043d\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0439","\u041a\u043e\u0440\u0440\u0435\u043a\u0446\u0438\u044f","\u041f\u0423\u0414","\u0420\u0424\u0424\u0418","\u0426\u0421\u0423","\u0430\u043d\u0430\u043b\u0438\u0437","\u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043d\u044b\u0439","\u0431\u0430\u0442\u0430\u0440\u0435\u044f","\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438","\u0432\u0435\u0431-\u0436\u0443\u0440\u043d\u0430\u043b","\u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440","\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435","\u0432\u0440\u0435\u043c\u044f","\u0433\u0438\u0441\u0442\u043e\u0433\u0440\u0430\u043c\u043c\u044b","\u0434\u0430-\u043d\u0435\u0442","\u0434\u0438\u0441\u043a","\u0436\u0438\u0432\u043e\u0435","\u0436\u0443\u0440\u043d\u0430\u043b","\u0437\u0430\u0434\u0430\u043d\u0438\u044f","\u0437\u0430\u043a\u0443\u043f\u043a\u0438","\u0437\u0430\u0445\u043e\u0434","\u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f","\u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b","\u043a\u0430\u043b\u0438\u0431\u0440\u043e\u0432\u043a\u0430","\u043a\u0430\u043b\u043e\u0440\u0438\u043c\u0435\u0442\u0440\u0430","\u043a\u0430\u0444\u043a\u0430","\u043a\u043b\u0430\u0441\u0442\u0435\u0440","\u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u044f","\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435","\u043b\u0435\u043d\u0442\u044b","\u043b\u043e\u0433-\u0436\u0443\u0440\u043d\u0430\u043b","\u043c\u0435\u0440\u0442\u0432\u043e\u0435","\u043c\u043d\u043e\u0433\u043e\u043f\u043e\u0442\u043e\u0447\u043d\u044b\u0439","\u043d\u043e\u043c\u0435\u0440","\u043e\u0441\u0446\u0438\u043b\u043b\u043e\u0433\u0440\u0430\u0444","\u043e\u0442\u0441\u0447\u0435\u0442","\u043e\u0448\u0438\u0431\u043a\u0430","\u043f\u0435\u0440\u0435\u0441\u0447\u0435\u0442\u043a\u0438","\u043f\u0435\u0440\u0435\u0441\u0447\u0451\u0442\u043a\u0438","\u043f\u0438\u0442\u0430\u043d\u0438\u0435","\u043f\u043b\u0430\u0442\u0430","\u043f\u043e\u0442\u0435\u0440\u0438","\u043f\u0440\u0438\u043d\u0442\u0435\u0440","\u043f\u0440\u043e\u043f\u0443\u0441\u043a\u0438","\u043f\u0440\u043e\u0441\u043a\u043e\u043a","\u043f\u044c\u0435\u0434\u0435\u0441\u0442\u0430\u043b\u043e\u0432","\u0440\u0430\u0441\u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0438\u0432\u0430\u043d\u0438\u0435","\u0440\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435","\u0440\u0438\u0434\u0430\u0443\u0442","\u0440\u0443\u043a\u043e\u043f\u0438\u0441\u043d\u044b\u0439","\u0441\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f","\u0441\u0435\u0442\u044c","\u0441\u0436\u0430\u0442\u0438\u0435","\u0441\u043e\u0431\u044b\u0442\u0438\u044f","\u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430","\u0441\u0447\u0435\u0442\u0447\u0438\u043a","\u0441\u0447\u0451\u0442\u0447\u0438\u043a","\u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430","\u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430","\u0444\u0430\u0437\u0430","\u0444\u0430\u0437\u044b","\u0447\u0430\u0441\u0442\u043e\u0442\u0430","\u0447\u0438\u0441\u0442\u0438\u043b\u044c\u0449\u0438\u043a"],"match_from_start":"","separator":" "};
+      var auto_preview_timeout=2.0;
+      var _tracdragdrop={"base_url":"/trac/","can_create":true,"max_size":52428800,"new_url":"/trac/tracdragdrop/new/wiki/SND2K/Data/RHO_2024-0","no_image_msg":"No image \"%(id)s\" attached to %(parent)s","parent_name":"SND2K/Data/RHO_2024-0","raw_parent_url":"/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/"};
+    </script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/babel.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/trac.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/search.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/wikitoolbar.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/resizer.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/auto_preview.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/folding.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tags/js/autocomplete_tags.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui-addons.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui-i18n.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tracdragdrop/tracdragdrop.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/movie/js/flowplayer.min.js"></script>
+    <script type="text/javascript">
+      jQuery("#trac-noscript").remove();
+      jQuery(document).ready(function($) {
+        $(".trac-autofocus").focus();
+        $(".trac-target-new").attr("target", "_blank");
+        if ($.ui) { /* is jquery-ui added? */
+          $(".trac-datepicker:not([readonly])").prop("autocomplete", "off").datepicker();
+          $(".trac-datetimepicker:not([readonly])").prop("autocomplete", "off").datetimepicker();
+          $("#main").addClass("trac-nodatetimehint");
+        }
+        $(".trac-disable").disableSubmit(".trac-disable-determinant");
+        setTimeout(function() { $(".trac-scroll").scrollToTop() }, 1);
+        $(".trac-disable-on-submit").disableOnSubmit();
+      });
+    </script>
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $("#text").blur(function() {
+          $("#scroll_bar_pos").val(this.scrollTop);
+        }).get(0).scrollTop = $("#scroll_bar_pos").val();
+        $("#editrows").change(function() {
+          resizeTextArea("text", this.options[this.selectedIndex].value);
+        });
+        $("#sidebyside").change(function() {
+          $("#edit input[type=submit][name=preview]").click();
+        });
+        $(".foldable").enableFolding(true, true);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="banner">
+      <div id="header">
+        <h1><a href="">СНД2000</a></h1>
+      </div>
+      <form id="search" action="/trac/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first">logged in as <span class="trac-author-user">petrovam</span></li><li><form action="/trac/logout" class="trac-logout" id="logout" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="70b8f4e915e6e02332eb11c8" /></div><div><button type="submit" name="logout">Logout</button></div></form></li><li><a href="/trac/wiki/TracGuide">Help/Guide</a></li><li><a href="/trac/about">About Trac</a></li><li><a href="/trac/prefs">Preferences</a></li><li class="last"><a href="/trac/rpc">API</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first active"><a href="/trac/wiki">Wiki</a></li><li><a href="/trac/timeline">Timeline</a></li><li><a href="/trac/browser">Browse Source</a></li><li><a href="/trac/report">View Tickets</a></li><li><a href="/trac/newticket">New Ticket</a></li><li><a href="/trac/search">Search</a></li><li><a href="/trac/roadmap">Roadmap</a></li><li class="last"><a href="/trac/tags">Tags</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="first"><a href="/trac/wiki/WikiStart">Start Page</a></li><li><a href="/trac/wiki/TitleIndex">Index</a></li><li class="last"><a href="/trac/wiki/SND2K/Data/RHO_2024-0?action=history">History</a></li>
+        </ul>
+        <hr />
+      </div>
+    <div id="content" class="wiki">
+      <h1>Editing SND2K/Data/RHO_2024-0</h1>
+        
+  <form id="edit" class="mod" action="/trac/wiki/SND2K/Data/RHO_2024-0" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="70b8f4e915e6e02332eb11c8" /></div>
+    <fieldset>
+      <input type="hidden" name="from_editor" value="1" />
+      <input type="hidden" name="action" value="edit" />
+      <input type="hidden" name="version" value="13" />
+      <input type="hidden" id="scroll_bar_pos" name="scroll_bar_pos" value="" />
+      <div id="rows">
+          <label for="editrows">Adjust edit area height:</label>
+          <select size="1" name="editrows" id="editrows" tabindex="43">
+            <option value="8">
+              8
+            </option><option value="12">
+              12
+            </option><option value="16">
+              16
+            </option><option value="20" selected="selected">
+              20
+            </option><option value="24">
+              24
+            </option><option value="28">
+              28
+            </option><option value="32">
+              32
+            </option><option value="36">
+              36
+            </option><option value="40">
+              40
+            </option>
+          </select>
+        <label for="sidebyside" title="Selecting and pressing 'Preview' enters a two-column [edit|preview] mode">
+          Edit side-by-side
+        </label>
+        <input type="checkbox" name="sidebyside" id="sidebyside" />
+      </div>
+      <p><textarea id="text" class="wikitext trac-autofocus trac-fullwidth trac-resizable" name="text" cols="80" rows="20">
+= `RHO_2024-0 (73064..75644, R008-003)`
+
+== Особенности
+- Заходы 73293,73538..73542,74082..74083,74089,74091,74202..74205,74367,75258,75259,75308..75310,75604,75335..75339,75335..75339,75637,75643,75644  имеют проблемы с измерением времени в отдельных каналах калориметра (+/- 27 нс). По запросу эти каналы могут быть внесены в z24bad и тогда измерение времени в них проводиться не будет. 
+- Заход 73099 обрезали по 327187 событий.
+- Список заходов, которые сильно выпадают на графиках (с учетом ошибки), приведены после соответствующих картинок.
+
+== Основная информация
+|| **сканирование** ||   **тэг**  ||  **заходы**  || **релиз** ||        **путь**         ||
+||     RHO_2024     || RHO_2024-0 || 73064..75644 ||  R008-003 || /online/proc2/RHO_2024-0||
+
+распределение заходов по энергетическим точкам:
+|| **энергия** || **индекс** || **интерграл светимости (нб^-1^)**  || **начальный заход** || **конечный заход** || **время (начало)**  || **время (конец)**   ||
+||    МэВ      ||            ||        **приблизительный**         ||                     ||                    ||                     ||                     || 
+||    405.0    ||     0      ||	             1893                  ||       75313         ||       75644	|| 2024-06-12 18:11:01 || 2024-06-26 21:27:33 ||
+||    410.0    ||     0      ||              1113	           ||       75083         ||	   75311	|| 2024-06-06 05:07:27 || 2024-06-12 17:39:00 ||
+||    415.0    ||     0	     ||              1032	           ||       74940         ||       75082	|| 2024-06-02 11:22:02 || 2024-06-06 00:10:40 ||
+||    420.0    ||     0	     ||              1020	           ||       74827	  ||       74938	|| 2024-05-29 12:51:28 || 2024-06-02 08:39:52 ||
+||    425.0    ||     0	     ||              1237                  || 	    74730	  ||       74823	|| 2024-05-26 11:27:35 || 2024-05-29 08:33:24 ||
+||    430.0    ||     0	     ||              2136	           ||       74568	  ||       74727	|| 2024-05-21 13:07:03 || 2024-05-26 08:29:41 ||
+||    435.0    ||     0	     ||              1217	           ||       74475	  ||       74561        || 2024-05-18 15:29:39 || 2024-05-21 08:32:07 ||
+||    440.0    ||     0	     ||              1159	           ||       74377	  ||       74472	|| 2024-05-14 22:14:37 || 2024-05-18 08:33:46 ||
+||    445.0    ||     0	     ||              1083	           ||       74260         ||	   74376	|| 2024-05-11 17:16:51 || 2024-05-14 21:19:42 ||
+||    450.0    ||     0	     ||              3237	           ||       73998	  ||       74259	|| 2024-05-04 13:17:23 || 2024-05-11 15:15:30 ||
+||    455.0    ||     0	     ||              2178	           ||       73871	  ||       73995	|| 2024-04-30 12:08:15 || 2024-05-04 08:25:40 ||
+||    460.0    ||     0	     ||              3606	           ||       73678	  ||       73866	|| 2024-04-23 16:27:25 || 2024-04-30 08:39:11 ||
+||    465.0    ||     0	     ||              1157	           ||       73625	  ||       73676	|| 2024-04-21 15:00:46 || 2024-04-23 15:32:34 ||
+||    470.0    ||     0	     ||              3671	           ||       73456	  ||       73624	|| 2024-04-15 17:36:11 || 2024-04-21 12:40:22 ||
+||    475.0    ||     0	     ||              1171	           ||       73397	  ||       73443	|| 2024-04-13 14:12:34 || 2024-04-15 00:42:42 ||
+||    479.0    ||     0	     ||              5237	           ||       73119	  ||       73396	|| 2024-04-05 14:29:16 || 2024-04-13 13:19:28 ||
+||    485.0    ||     0	     ||              1112	           ||       73064	  ||       73113	|| 2024-04-03 11:37:10 || 2024-04-05 08:32:44 ||
+
+== Связанные тикеты 
+
+- Сделать naialign для PHI_2024-0 в R008-003 и `naigeom1` для будущих перекачек #3759 
+- Не запускается перекачка #3801
+- Падение 4-х заходов перекачки RHO2024-0 #3883
+- Перекачка RHO_2024-0 падает с segfault #3850
+- Fixing of the z24ee calibration for Rho2024 #3759
+- проблема с заходом 73099 (sge=35) #3711
+- ipoint для RHO_2024-0 #3317
+
+== Зависимость различных параметров от номера захода
+- Отношение числа событий Nee/Ngg \\ \\ [[Image(Nee2Ngg.png,70%)]]\\
+  Больше 7 для захода 75296.
+   \\ \\
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий bebe36 \\ \\ [[Image(EtonMean.png,70%)]]\\
+  \\ \\
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий bebe36 из подгонки \\ \\ [[Image(EtonMeanF.png,70%)]] \\
+  Eton&gt;0.94 для заходов 75643,75644.
+  \\ \\
+- Среднее энерговыделение нормированное на удвоенную энергию пучка для событий cbebe на малые углы \\ \\ [[Image(EtonMeanLA.png,70%)]] \\
+  \\ \\
+- Минимальная эффективность слоя дрейфовой камеры \\ \\ [[Image(DCEff.png,70%)]]\\
+  Меньше 0.945 для заходов  74382,74511..74522,75294,75307,75401..75403,75404,75409,75535,75536,75538..75541,75543,75544,75569.\\ \\
+- RMS dtheta для событий bebe36 \\ \\ [[Image(dthetaRMS.png,70%)]]\\
+  RMS&lt;3 для заходов 73081,73303,73443,73687,73816,74203.\\
+  RMS&gt;3.4 для захода 75513.\\ \\
+- ширина на полувысоте для dtheta для событий bebe36 \\ \\ [[Image(dthetaHWHM.png,70%)]]\\
+  HWHM&gt;1.5 для захода 75522.
+   \\ \\
+- RMS dphi для событий bebe36 \\ \\ [[Image(dphiRMS.png,70%)]]\\
+  RMS&gt;1.2 для захода 74727.
+   \\ \\
+- ширина на полувысоте для dphi для событий bebe36 \\ \\ [[Image(dphiHWHM.png,70%)]]\\
+  HWHM&gt;0.9 для заходов 74768,74779,74783,74789,74795,74808,75121,75199,75230,75242,75259,75267,75268,75269,75280,75288,75294,75297,75299,\\
+  75300,75302,75303,75309,75311,75313,75355,75364,75505.\\
+  HWHM&lt;0.65 для заходов 73113,73294,74742.\\ \\ 
+- Относительная разность максимума от среднего значения для распределения по $\phi$ для событий bebe36 (проверка на однородность распределения по phi) \\ \\ [[Image(phi_chi2ndf.png,70%)]]\\
+  Больше чем 0.35 для заходов 73665,73779,73786,74664,75218,75403.// //
+- RMS разности z-координат для треков от рассеяния Баба \\ \\ [[Image(dztr1.png,70%)]]\\
+  RMS&gt;0.6 для захода 74416. \\
+   \\ \\
+- Количество событий с наложениями \\ \\ [[Image(Ngcl.png,70%)]]\\
+- Максимальный средний chi2 подгонки сигналов с платы Z24 калориметра \\ \\ [[Image(Z24Chi2.png,70%)]]\\
+  chi2&gt;100 для заходов 73934,73941,73942,73945,73948,73957..73959,75465..75468,75480.\\ \\
+- Максимум среднего времени для сигналов с платы Z24 калориметра \\ \\ [[Image(Z24TimeMean.png,70%)]]\\
+  Time&gt;10 для заходов 73293,73539..73542,74082,74083,74089,74091,74202,74203,74204,74205,74367,75258,75259,75308..75310,75335..75339,75604,75637,75643,75644. \\ \\     
+- Максимум времени для сигналов с платы Z24 калориметра \\ \\ [[Image(Z24TimeMaxBin.png,70%)]] \\
+  20&lt;Time&lt;30 для заходов 73293,73539..73542,74082,74083,74089,74091,74202..74205,74367,75258,75259,75335..75339,75604,75637,75643,75644. \\ \\
+- Максимум разброса (RMS) времени для сигналов с платы Z24 калориметра \\ \\ [[Image(Z24TimeRMS.png,70%)]] \\
+  10&lt;Time&lt;30 для заходов 74367,75258,75259,75335..75339,75402,75461,75462,75561,75604,75637,75643,75644.\\ \\
+- Эффективность черенковского счетчика \\ \\ [[Image(AGEff.png,70%)]]\\
+  Меньше 0.7 для заходов 75243,75569. \\
+  \\ \\
+- Эффективность внешней системы (трубки) \\ \\ [[Image(TUEff.png,70%)]]\\
+  \\ \\
+- Работа внешней системы (сцинтилляционные счетчики) \\ \\ [[Image(AC.png,70%)]]\\</textarea>
+      </p>
+      <div id="help"><strong>Note:</strong> See <a href="/trac/wiki/WikiFormatting">WikiFormatting</a> and
+        <a href="/trac/wiki/TracWiki">TracWiki</a> for help on editing wiki content.</div>
+    </fieldset>
+    <fieldset id="changeinfo">
+      <legend>Change information</legend>
+      <div id="changeinfo1">
+        <div class="field">
+          <label>Comment about this change (optional):<br />
+            <input id="comment" type="text" class="trac-fullwidth wikitext" name="comment" value="" />
+          </label>
+        </div>
+      </div>
+    </fieldset>
+    <div class="buttons">
+        <input type="submit" name="preview" value="Preview Page" /> 
+        <input type="submit" name="diff" value="Review Changes" /> 
+        <input type="submit" id="save" name="save" class="trac-disable-on-submit" value="Submit changes" /> 
+      <input type="submit" name="cancel" value="Cancel" />
+    </div>
+  </form>
+
+      
+    <div id="attachments">
+        <h3 class="foldable">Attachments <span class="trac-count">(19)</span></h3>
+        <div>
+          <ul>
+            <li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/AC.png" title="View attachment">AC.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/AC.png" class="trac-rawlink" title="Download">​</a> (<span title="12199 bytes">11.9 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A07%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:07 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/AGEff.png" title="View attachment">AGEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/AGEff.png" class="trac-rawlink" title="Download">​</a> (<span title="26717 bytes">26.1 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A08%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:08 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/DCEff.png" title="View attachment">DCEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/DCEff.png" class="trac-rawlink" title="Download">​</a> (<span title="27391 bytes">26.7 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A08%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:08 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/dphiHWHM.png" title="View attachment">dphiHWHM.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/dphiHWHM.png" class="trac-rawlink" title="Download">​</a> (<span title="26027 bytes">25.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A09%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:09 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/dphiRMS.png" title="View attachment">dphiRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/dphiRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="33996 bytes">33.2 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A10%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:10 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/dthetaHWHM.png" title="View attachment">dthetaHWHM.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/dthetaHWHM.png" class="trac-rawlink" title="Download">​</a> (<span title="23648 bytes">23.1 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A11%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:11 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/dthetaRMS.png" title="View attachment">dthetaRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/dthetaRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="35256 bytes">34.4 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A12%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:12 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/dztr1.png" title="View attachment">dztr1.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/dztr1.png" class="trac-rawlink" title="Download">​</a> (<span title="34863 bytes">34.0 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A12%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:12 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/EtonMean.png" title="View attachment">EtonMean.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/EtonMean.png" class="trac-rawlink" title="Download">​</a> (<span title="37153 bytes">36.3 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A13%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:13 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/EtonMeanF.png" title="View attachment">EtonMeanF.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/EtonMeanF.png" class="trac-rawlink" title="Download">​</a> (<span title="32402 bytes">31.6 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A13%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:13 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/EtonMeanLA.png" title="View attachment">EtonMeanLA.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/EtonMeanLA.png" class="trac-rawlink" title="Download">​</a> (<span title="25391 bytes">24.8 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A14%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:14 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/Nee2Ngg.png" title="View attachment">Nee2Ngg.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/Nee2Ngg.png" class="trac-rawlink" title="Download">​</a> (<span title="29850 bytes">29.2 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A15%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:15 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/Ngcl.png" title="View attachment">Ngcl.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/Ngcl.png" class="trac-rawlink" title="Download">​</a> (<span title="22554 bytes">22.0 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A15%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:15 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/phi_chi2ndf.png" title="View attachment">phi_chi2ndf.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/phi_chi2ndf.png" class="trac-rawlink" title="Download">​</a> (<span title="27768 bytes">27.1 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A16%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:16 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/TUEff.png" title="View attachment">TUEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/TUEff.png" class="trac-rawlink" title="Download">​</a> (<span title="27953 bytes">27.3 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A17%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:17 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/Z24Chi2.png" title="View attachment">Z24Chi2.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/Z24Chi2.png" class="trac-rawlink" title="Download">​</a> (<span title="16933 bytes">16.5 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A17%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:17 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/Z24TimeMaxBin.png" title="View attachment">Z24TimeMaxBin.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/Z24TimeMaxBin.png" class="trac-rawlink" title="Download">​</a> (<span title="15864 bytes">15.5 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A18%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:18 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/Z24TimeMean.png" title="View attachment">Z24TimeMean.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/Z24TimeMean.png" class="trac-rawlink" title="Download">​</a> (<span title="18107 bytes">17.7 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A18%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:18 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2024-0/Z24TimeRMS.png" title="View attachment">Z24TimeRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2024-0/Z24TimeRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="21198 bytes">20.7 KB</span>) - added by <span class="trac-author">silagadz</span> <a class="timeline" href="/trac/timeline?from=2024-11-07T14%3A45%3A19%2B07%3A00&amp;precision=second" title="See timeline 3 months ago">on Nov 7, 2024 at 2:45:19 PM</a>.
+            </li>
+          </ul>
+          <p>
+            Download all attachments as: <a rel="nofollow" href="/trac/zip-attachment/wiki/SND2K/Data/RHO_2024-0/">.zip</a>
+          </p>
+        </div>
+    </div>
+
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="https://trac.edgewall.org/"><img src="/trac/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/trac/about"><strong>Trac 1.2.5</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">Visit the Trac open source project at<br /><a href="http://trac.edgewall.org/">http://trac.edgewall.org/</a></p>
+    </div>
+  </body>
+</html>

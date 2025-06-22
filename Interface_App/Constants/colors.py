@@ -1,0 +1,29 @@
+
+BACKGROUND_COLOR = (240, 240, 240)
+TAB_ACTIVE_COLOR = (102, 178, 255)
+TAB_INACTIVE_COLOR = (200, 200, 200)
+TEXT_COLOR_ACTIVE = (255, 255, 255)
+TEXT_COLOR_INACTIVE = (80, 80, 80)
+CONTENT_COLOR = (230, 255, 250)
+BUTTON_COLOR = (173, 216, 230)
+HOVER_COLOR = (135, 206, 250)
+SELECTED_COLOR = (100, 149, 237)
+BORDER_COLOR = (220, 220, 220)
+
+ACTIVE_ITEM_COLOR = (255, 204, 102)  # Светло-оранжевый фон для активного элемента
+SELECTED_TEXT_COLOR = (0, 0, 0)  # Черный текст для выделенного элемента
+DROPDOWN_COLOR = (220, 220, 220)  # Светло-серый фон для обычных элементов
+TEXT_COLOR = (80, 80, 80)  # Текст для невыбранных строк
+
+WHITE = (255, 255, 255)
+LIGHT_BLUE = (173, 216, 230)
+DARK_BLUE = (0, 102, 204)
+BLACK = (0, 0, 0)
+GRAY = (80, 80, 80)
+BLUE = (0, 0, 255)
+
+
+INACTIVE_BUTTON = (200, 200, 200)
+ACTIVE_BUTTON = (102, 178, 255)
+
+

@@ -1,0 +1,85 @@
+Hists.tuple("my", "run    := id.run", cut="mysel" )
+Hists.tuple("my", "event  := id.event" )
+Hists.tuple("my", "trin   := t.TRIN" )
+Hists.tuple("my", "beam   := t.Ebeam" )
+Hists.tuple("my", "nc          := t.Nchar" )
+Hists.tuple("my", "nn          := t.Nneut" )
+
+
+Hists.tuple("my", "etot   := sum(cr.energy)" )
+Hists.tuple("my", "eton   := t.Eton" )
+Hists.tuple("my", "ptrn   := t.Ptrn" )
+Hists.tuple("my", "plrn   := t.Plrn" )
+Hists.tuple("my", "ptrt   := sqrt(t.Ptrn*t.Ptrn+t.Plrn*t.Plrn)/t.Eton" )
+Hists.tuple("my", "nwo{0:255}/I := wo.size" )
+Hists.tuple("my", "nwr{0:255}/I := wr.size" )
+Hists.tuple("my", "wrn[nwr]/I := wr.wire" )
+Hists.tuple("my", "wrt[nwr]/D := wr.dist" )
+Hists.tuple("my", "wramp[nwr]/D := wr.amp" )
+Hists.tuple("my", "wrz[nwr]/D := wr.z" )
+
+Hists.tuple("my", "nst{0:255}/I := st.size" )
+Hists.tuple("my", "stz[nst]/D := st.z" )
+Hists.tuple("my", "stdz[nst]/D := st.dz" )
+
+Hists.tuple("my", "sts[nst]/I := st.sector" )
+Hists.tuple("my", "stk[nst]/I := st.cathode" )
+Hists.tuple("my", "str[nst]/I := st.ring" )
+
+Hists.tuple("my", "sta[nst]/D := st.amp" )
+Hists.tuple("my", "sti[nst]/D := st.integral" )
+# cosmic parameters
+Hists.tuple("my","cosm    := csm.cosm" )
+
+# trigger
+Hists.tuple("my", "act{0:1}  := yn.ACT" )
+
+# calculated trigger
+Hists.tuple("my", "cact{0:1} := ync.ACT")
+
+Hists.tuple("my", "np{0:31}/I  := pr.size")
+Hists.tuple("my", "charge[np]  := pr.charge" )
+Hists.tuple("my", "energy[np]  := pr.energy" )
+Hists.tuple("my", "theta[np]   := pr.theta" )
+Hists.tuple("my", "phi[np]     := pr.phi" )
+Hists.tuple("my", "thetac[np]  := pr.thetaC" )
+Hists.tuple("my", "phic[np]    := pr.phiC" )
+Hists.tuple("my", "z0[np]      := pr.z0" )
+Hists.tuple("my", "d0[np]      := pr.d0" )
+Hists.tuple("my", "thetaS[np]  := pr.thetaS" )
+Hists.tuple("my", "phis[np]    := pr.phiS" )
+
+# cocha particles
+Hists.tuple("my", "cnp{0:31}          := cocha.size")
+Hists.tuple("my", "cenergy[cnp]/F     := cocha.energy")
+Hists.tuple("my", "cenergyerr[cnp]/F  := cocha.energyError")
+Hists.tuple("my", "cdirx[cnp]         := proj(cocha.direction,0)")
+Hists.tuple("my", "cdiry[cnp]         := proj(cocha.direction,1)")
+Hists.tuple("my", "cdirz[cnp]         := proj(cocha.direction,2)")
+Hists.tuple("my", "cphi[cnp]/F        := cocha.phi")
+Hists.tuple("my", "ctheta[cnp]/F      := cocha.theta")
+Hists.tuple("my", "cDphi[cnp]/F       := cocha.dphiS")
+Hists.tuple("my", "cDtheta[cnp]/F     := cocha.dthetaS")
+
+Hists.tuple("my", "cetot              := sum(cocha.energy)")
+Hists.tuple("my", "cx2g[cnp]/F        := cocha.xip")
+
+Hists.tuple("my", "emcMinTime[cnp]     := pr.emcMinTime")
+Hists.tuple("my", "emcMeanTime[cnp]     := pr.emcMeanTime")
+
+Hists.tuple("my", "emcThetaMean[np]     := pr.emcThetaWidth")
+Hists.tuple("my", "emcPhiMean[np]     := pr.emcPhiWidth")
+
+Hists.tuple("my", "el1[cnp]/F        := cocha.el1")
+Hists.tuple("my", "el2[cnp]/F        := cocha.el2")
+Hists.tuple("my", "el3[cnp]/F        := cocha.el3")
+
+
+# poi
+Hists.tuple("my", "npoi{0:31}/I   := poi.size")
+Hists.tuple("my", "xPoi[npoi]/D   := poi.xPoi")
+Hists.tuple("my", "xSig2[npoi]/D  := poi.xSig2")
+Hists.tuple("my", "yPoi[npoi]/D   := poi.yPoi")
+Hists.tuple("my", "ySig2[npoi]/D  := poi.ySig2")
+Hists.tuple("my", "zPoi[npoi]/D   := poi.zPoi")
+Hists.tuple("my", "zSig2[npoi]/D  := poi.zSig2")

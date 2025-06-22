@@ -1,0 +1,12 @@
+background_var1: klpi02
+background_filename1: sdsddsa
+background_path1: sadada
+background_var2: adsad
+background_filename2: dasda
+background_path2: ssadsa
+data_var: exnn2
+data_filename: listNN22.txt
+data_path: wd
+signal_var: mc22
+signal_filename: ddd
+signal_path: ddsds

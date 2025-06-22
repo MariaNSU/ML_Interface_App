@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+
+  <head>
+    <title>
+      SND2K/Data/RHO_2013-4 (edit) – СНД2000
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+          <link rel="start" href="/trac/wiki" />
+          <link rel="search" href="/trac/search" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/trac.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/wiki.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/jquery-ui/jquery-ui.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/common/css/jquery-ui-addons.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/tracdragdrop/tracdragdrop.css" type="text/css" />
+          <link rel="stylesheet" href="/trac/chrome/movie/js/skin/minimalist.css" type="text/css" />
+          <link rel="help" href="/trac/wiki/TracGuide" />
+          <link rel="icon" href="/trac/chrome/common/trac.ico" type="image/x-icon" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+      <link type="application/opensearchdescription+xml" rel="search" href="/trac/search/opensearch" title="Search СНД2000" />
+    <script type="text/javascript">
+      var form_token="4f53f4e1c0120b6c4d1485cd";
+      var jquery_ui={"ampm":true,"date_format":"M d, yy","day_names":{"abbreviated":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"narrow":["S","M","T","W","T","F","S"],"wide":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]},"default_timezone":null,"first_week_day":0,"month_names":{"abbreviated":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wide":["January","February","March","April","May","June","July","August","September","October","November","December"]},"period_names":{"am":["AM","AM"],"pm":["PM","PM"]},"show_timezone":false,"time_format":"h:mm:ss TT","timepicker_separator":" ","timezone_iso8601":false,"timezone_list":null};
+      var tags={"autocomplete_field":"tags","help_href":null,"help_new_window":false,"keywords":["1160","9","C7","CAEN","CERNROOT","DC","DC1","DQM","EL9","FLT","FLT1","G4","GENC","HDD","HP","L3","LaTeX","Linux","M104","MHAD2011","MHAD2020","MHAD2021","MHAD2024","MHAD2024-2","Mellanox","MySQL","NIC","OnlWeblog","PicAppOnl","R006-001","REVTeX","SMART","SND","SNDAS0","SQLparser","T200","TeX","VNC","Visualisation","Wiki","X11","a9","ac","access","accled","act","active","alarm","alma","alma9","backup","bandwidth","batch","bhabha","binp.local","bkg","cache","cact","caen","camProxyWatcher","camac","canon","centos","certificate","chamber","cherenkov","clb","cocna","container","control","cups","daq","database","db","dc","dczsig","development","documentation","domain","doxygen","driver","emc","empty","ems","error","eton","etot","event","events","firewalld","fit","flt","flt1","gcl","gen","genc","gepard","gist","glibc","gnome","hardware","high","hpcups","hplip","index","interface","interval","jambo","javaws","kafka","kinematic","klknet","korol","kurilin","l3","l3-1-obrazovsky","latex","letsencrypt","library","log","log-\u0436\u0443\u0440\u043d\u0430\u043b","lost","luminosity","manager","math","migrate","mixing","mpi_readout","mtu","multiplexer","multireadout","muon","naicosm","net","netboard","nfs","offline","online","parallel","pedestal","persistent","proxy","puma","pvv","readout","recolist","reconstruction","release","replica","rundbase","scalers","scanner","schedule","scintillator","screenshot","sctp","sctpproxy","server","simulation","slow","snd-msis","snd-ts","sndbc1","sndbc3","sndbc4","sndfarm03","sndfs","sndfs6h","sndfs7h","sndhw2","sndhw3","sndhw4","sndonline","sndoper","sndxt1","sndxt3","spam","sql","ssh","stdout","strip","students","subversion","switch","sysctl","t200","t2am","tape","temdbase","temview","test","thr","timeout","timezones","tube","tubes","tutorial","updates","usb","vepp2k","vepp5","visualisation","vm","voltage","weblog","wiki","windows","winows","wire","yesno","z200","z24","z24s","zoom","zyn","\u0412\u042d\u041f\u041f","\u0418\u0411\u041f","\u0418\u041a","\u0418\u043d\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0439","\u041a\u043e\u0440\u0440\u0435\u043a\u0446\u0438\u044f","\u041f\u0423\u0414","\u0420\u0424\u0424\u0418","\u0426\u0421\u0423","\u0430\u043d\u0430\u043b\u0438\u0437","\u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043d\u044b\u0439","\u0431\u0430\u0442\u0430\u0440\u0435\u044f","\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438","\u0432\u0435\u0431-\u0436\u0443\u0440\u043d\u0430\u043b","\u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440","\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435","\u0432\u0440\u0435\u043c\u044f","\u0433\u0438\u0441\u0442\u043e\u0433\u0440\u0430\u043c\u043c\u044b","\u0434\u0430-\u043d\u0435\u0442","\u0434\u0438\u0441\u043a","\u0436\u0438\u0432\u043e\u0435","\u0436\u0443\u0440\u043d\u0430\u043b","\u0437\u0430\u0434\u0430\u043d\u0438\u044f","\u0437\u0430\u043a\u0443\u043f\u043a\u0438","\u0437\u0430\u0445\u043e\u0434","\u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f","\u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b","\u043a\u0430\u043b\u0438\u0431\u0440\u043e\u0432\u043a\u0430","\u043a\u0430\u043b\u043e\u0440\u0438\u043c\u0435\u0442\u0440\u0430","\u043a\u0430\u0444\u043a\u0430","\u043a\u043b\u0430\u0441\u0442\u0435\u0440","\u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u044f","\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435","\u043b\u0435\u043d\u0442\u044b","\u043b\u043e\u0433-\u0436\u0443\u0440\u043d\u0430\u043b","\u043c\u0435\u0440\u0442\u0432\u043e\u0435","\u043c\u043d\u043e\u0433\u043e\u043f\u043e\u0442\u043e\u0447\u043d\u044b\u0439","\u043d\u043e\u043c\u0435\u0440","\u043e\u0441\u0446\u0438\u043b\u043b\u043e\u0433\u0440\u0430\u0444","\u043e\u0442\u0441\u0447\u0435\u0442","\u043e\u0448\u0438\u0431\u043a\u0430","\u043f\u0435\u0440\u0435\u0441\u0447\u0435\u0442\u043a\u0438","\u043f\u0435\u0440\u0435\u0441\u0447\u0451\u0442\u043a\u0438","\u043f\u0438\u0442\u0430\u043d\u0438\u0435","\u043f\u043b\u0430\u0442\u0430","\u043f\u043e\u0442\u0435\u0440\u0438","\u043f\u0440\u0438\u043d\u0442\u0435\u0440","\u043f\u0440\u043e\u043f\u0443\u0441\u043a\u0438","\u043f\u0440\u043e\u0441\u043a\u043e\u043a","\u043f\u044c\u0435\u0434\u0435\u0441\u0442\u0430\u043b\u043e\u0432","\u0440\u0430\u0441\u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0438\u0432\u0430\u043d\u0438\u0435","\u0440\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435","\u0440\u0438\u0434\u0430\u0443\u0442","\u0440\u0443\u043a\u043e\u043f\u0438\u0441\u043d\u044b\u0439","\u0441\u0435\u0440\u0432\u0435\u0440\u043d\u0430\u044f","\u0441\u0435\u0442\u044c","\u0441\u0436\u0430\u0442\u0438\u0435","\u0441\u043e\u0431\u044b\u0442\u0438\u044f","\u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430","\u0441\u0447\u0435\u0442\u0447\u0438\u043a","\u0441\u0447\u0451\u0442\u0447\u0438\u043a","\u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430","\u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430","\u0444\u0430\u0437\u0430","\u0444\u0430\u0437\u044b","\u0447\u0430\u0441\u0442\u043e\u0442\u0430","\u0447\u0438\u0441\u0442\u0438\u043b\u044c\u0449\u0438\u043a"],"match_from_start":"","separator":" "};
+      var auto_preview_timeout=2.0;
+      var _tracdragdrop={"base_url":"/trac/","can_create":true,"max_size":52428800,"new_url":"/trac/tracdragdrop/new/wiki/SND2K/Data/RHO_2013-4","no_image_msg":"No image \"%(id)s\" attached to %(parent)s","parent_name":"SND2K/Data/RHO_2013-4","raw_parent_url":"/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/"};
+    </script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/babel.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/trac.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/search.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/wikitoolbar.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/resizer.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/auto_preview.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/folding.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tags/js/autocomplete_tags.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui-addons.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/common/js/jquery-ui-i18n.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/tracdragdrop/tracdragdrop.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/trac/chrome/movie/js/flowplayer.min.js"></script>
+    <script type="text/javascript">
+      jQuery("#trac-noscript").remove();
+      jQuery(document).ready(function($) {
+        $(".trac-autofocus").focus();
+        $(".trac-target-new").attr("target", "_blank");
+        if ($.ui) { /* is jquery-ui added? */
+          $(".trac-datepicker:not([readonly])").prop("autocomplete", "off").datepicker();
+          $(".trac-datetimepicker:not([readonly])").prop("autocomplete", "off").datetimepicker();
+          $("#main").addClass("trac-nodatetimehint");
+        }
+        $(".trac-disable").disableSubmit(".trac-disable-determinant");
+        setTimeout(function() { $(".trac-scroll").scrollToTop() }, 1);
+        $(".trac-disable-on-submit").disableOnSubmit();
+      });
+    </script>
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $("#text").blur(function() {
+          $("#scroll_bar_pos").val(this.scrollTop);
+        }).get(0).scrollTop = $("#scroll_bar_pos").val();
+        $("#editrows").change(function() {
+          resizeTextArea("text", this.options[this.selectedIndex].value);
+        });
+        $("#sidebyside").change(function() {
+          $("#edit input[type=submit][name=preview]").click();
+        });
+        $(".foldable").enableFolding(true, true);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="banner">
+      <div id="header">
+        <h1><a href="">СНД2000</a></h1>
+      </div>
+      <form id="search" action="/trac/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first">logged in as <span class="trac-author-user">petrovam</span></li><li><form action="/trac/logout" class="trac-logout" id="logout" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="4f53f4e1c0120b6c4d1485cd" /></div><div><button type="submit" name="logout">Logout</button></div></form></li><li><a href="/trac/wiki/TracGuide">Help/Guide</a></li><li><a href="/trac/about">About Trac</a></li><li><a href="/trac/prefs">Preferences</a></li><li class="last"><a href="/trac/rpc">API</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first active"><a href="/trac/wiki">Wiki</a></li><li><a href="/trac/timeline">Timeline</a></li><li><a href="/trac/browser">Browse Source</a></li><li><a href="/trac/report">View Tickets</a></li><li><a href="/trac/newticket">New Ticket</a></li><li><a href="/trac/search">Search</a></li><li><a href="/trac/roadmap">Roadmap</a></li><li class="last"><a href="/trac/tags">Tags</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="first"><a href="/trac/wiki/WikiStart">Start Page</a></li><li><a href="/trac/wiki/TitleIndex">Index</a></li><li class="last"><a href="/trac/wiki/SND2K/Data/RHO_2013-4?action=history">History</a></li>
+        </ul>
+        <hr />
+      </div>
+    <div id="content" class="wiki">
+      <h1>Editing SND2K/Data/RHO_2013-4</h1>
+        
+  <form id="edit" class="mod" action="/trac/wiki/SND2K/Data/RHO_2013-4" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="4f53f4e1c0120b6c4d1485cd" /></div>
+    <fieldset>
+      <input type="hidden" name="from_editor" value="1" />
+      <input type="hidden" name="action" value="edit" />
+      <input type="hidden" name="version" value="10" />
+      <input type="hidden" id="scroll_bar_pos" name="scroll_bar_pos" value="" />
+      <div id="rows">
+          <label for="editrows">Adjust edit area height:</label>
+          <select size="1" name="editrows" id="editrows" tabindex="43">
+            <option value="8">
+              8
+            </option><option value="12">
+              12
+            </option><option value="16">
+              16
+            </option><option value="20" selected="selected">
+              20
+            </option><option value="24">
+              24
+            </option><option value="28">
+              28
+            </option><option value="32">
+              32
+            </option><option value="36">
+              36
+            </option><option value="40">
+              40
+            </option>
+          </select>
+        <label for="sidebyside" title="Selecting and pressing 'Preview' enters a two-column [edit|preview] mode">
+          Edit side-by-side
+        </label>
+        <input type="checkbox" name="sidebyside" id="sidebyside" />
+      </div>
+      <p><textarea id="text" class="wikitext trac-autofocus trac-fullwidth trac-resizable" name="text" cols="80" rows="20">
+= `RHO_2013-4 (14048..21726, R006-004)`
+**Еще в работе**
+
+== Основная информация
+|| **сканирование** || **тэг** || **заходы** || **релиз** || **путь** ||
+|| RHO_2013 || RHO_2013-4 || 14048..21726 || R006-004 || /online/proc/RHO_2013-4||
+
+- [wiki:SND2K/Data/RevComptonEnergy Энергия, измеренная методом обратного комптоновского рассеяния]
+
+
+== Особенности
+ - В диапазоне заходов **14048-15958** во временных спектрах 1 слоя дрейфовой камеры значительная доля событий с перескоком фазы.\\
+
+ ---
+
+== Основные проблемы, которые ещё не исправлены
+ - Есть подозрение, что использовано недостаточно статистики для калибровки x(t), тикет #1375.
+ - В распределении по углу phi  трека наблюдаются пики, тикет #1354.
+ - Страная зависимость от энергии эффективности камеры и разрешения по phi трека, тикет #1347.
+ - Для заходов **14056, 14152, 14360, 14481, 20333, 14864, 20415, 15187, 20913,  21030, 21043, 16263, 15683, 16274, 20365, 20416, 20425, 20430, 20431, 20433, 20444, 20447, 20450, 20451, 20454, 20455, 20456, 20458, 20466, 20467, 20468, 20471, 20473, 20475, 20476, 20482, 20483, 20490,  20521, 20522, 20524, 20526, 20527, 20529, 20530, 20531, 20532, 20533, 20537, 20538, 20539, 20542, 20551, 20552, 20561, 20562, 20594, 20600, 20629, 20793, 21084, 21097** пустые gcl и gc1 файлы
+== Связанные тикеты 
+ - Исправление калибровки naietthr, тикет #1299
+ - Поиск проблемных каналов калориметра, тикет #1342
+
+== Зависимость различных параметров от номера захода
+
+ - Отношение числа событий Nee/Ngg \\ \\ [[Image(Nee2Ngg.2.png,70%)]]
+ - Среднее энерговыделение нормированное на удвоенную энергию пучка для событий bebe36 \\ \\ [[Image(EtonMean.2.png,70%)]]
+ - Минимальная эффективность слоя дрейфовой камеры \\ \\ [[Image(DCEff.2.png,70%)]]
+ - RMS dtheta для событий bebe36 \\ \\ [[Image(dthetaRMS.2.png,70%)]]
+ - RMS dphi для событий bebe36 \\ \\ [[Image(dphiRMS.2.png,70%)]]
+ - Количество событий с наложениями \\ \\ [[Image(Ngcl.png,70%)]]
+ - Эффективность черенковского счетчика \\ \\ [[Image(AGEff.png,70%)]]
+ - Эффективность внешней системы \\ \\ [[Image(TUEff.png,70%)]]</textarea>
+      </p>
+      <div id="help"><strong>Note:</strong> See <a href="/trac/wiki/WikiFormatting">WikiFormatting</a> and
+        <a href="/trac/wiki/TracWiki">TracWiki</a> for help on editing wiki content.</div>
+    </fieldset>
+    <fieldset id="changeinfo">
+      <legend>Change information</legend>
+      <div id="changeinfo1">
+        <div class="field">
+          <label>Comment about this change (optional):<br />
+            <input id="comment" type="text" class="trac-fullwidth wikitext" name="comment" value="" />
+          </label>
+        </div>
+      </div>
+    </fieldset>
+    <div class="buttons">
+        <input type="submit" name="preview" value="Preview Page" /> 
+        <input type="submit" name="diff" value="Review Changes" /> 
+        <input type="submit" id="save" name="save" class="trac-disable-on-submit" value="Submit changes" /> 
+      <input type="submit" name="cancel" value="Cancel" />
+    </div>
+  </form>
+
+      
+    <div id="attachments">
+        <h3 class="foldable">Attachments <span class="trac-count">(14)</span></h3>
+        <div>
+          <ul>
+            <li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/DCEff.png" title="View attachment">DCEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/DCEff.png" class="trac-rawlink" title="Download">​</a> (<span title="23443 bytes">22.9 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2020-07-27T16%3A50%3A56%2B07%3A00&amp;precision=second" title="See timeline 5 years ago">on Jul 27, 2020 at 4:50:56 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/dphiRMS.png" title="View attachment">dphiRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/dphiRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="29854 bytes">29.2 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2020-07-27T16%3A51%3A00%2B07%3A00&amp;precision=second" title="See timeline 5 years ago">on Jul 27, 2020 at 4:51:00 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/dthetaRMS.png" title="View attachment">dthetaRMS.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/dthetaRMS.png" class="trac-rawlink" title="Download">​</a> (<span title="29052 bytes">28.4 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2020-07-27T16%3A51%3A05%2B07%3A00&amp;precision=second" title="See timeline 5 years ago">on Jul 27, 2020 at 4:51:05 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/EtonMean.png" title="View attachment">EtonMean.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/EtonMean.png" class="trac-rawlink" title="Download">​</a> (<span title="28287 bytes">27.6 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2020-07-27T16%3A51%3A11%2B07%3A00&amp;precision=second" title="See timeline 5 years ago">on Jul 27, 2020 at 4:51:11 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/Nee2Ngg.png" title="View attachment">Nee2Ngg.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/Nee2Ngg.png" class="trac-rawlink" title="Download">​</a> (<span title="29235 bytes">28.5 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2020-07-27T16%3A51%3A15%2B07%3A00&amp;precision=second" title="See timeline 5 years ago">on Jul 27, 2020 at 4:51:15 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/Nee2Ngg.2.png" title="View attachment">Nee2Ngg.2.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/Nee2Ngg.2.png" class="trac-rawlink" title="Download">​</a> (<span title="28461 bytes">27.8 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A52%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:52 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/dthetaRMS.2.png" title="View attachment">dthetaRMS.2.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/dthetaRMS.2.png" class="trac-rawlink" title="Download">​</a> (<span title="27598 bytes">27.0 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A52%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:52 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/dphiRMS.2.png" title="View attachment">dphiRMS.2.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/dphiRMS.2.png" class="trac-rawlink" title="Download">​</a> (<span title="28602 bytes">27.9 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A53%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:53 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/DCEff.2.png" title="View attachment">DCEff.2.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/DCEff.2.png" class="trac-rawlink" title="Download">​</a> (<span title="22760 bytes">22.2 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A53%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:53 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/EtonMean.2.png" title="View attachment">EtonMean.2.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/EtonMean.2.png" class="trac-rawlink" title="Download">​</a> (<span title="30580 bytes">29.9 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A53%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:53 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/AGEff.png" title="View attachment">AGEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/AGEff.png" class="trac-rawlink" title="Download">​</a> (<span title="15352 bytes">15.0 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A54%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:54 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/AC.png" title="View attachment">AC.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/AC.png" class="trac-rawlink" title="Download">​</a> (<span title="14281 bytes">13.9 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A54%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:54 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/TUEff.png" title="View attachment">TUEff.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/TUEff.png" class="trac-rawlink" title="Download">​</a> (<span title="18893 bytes">18.5 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A55%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:55 PM</a>.
+            </li><li>
+    <a href="/trac/attachment/wiki/SND2K/Data/RHO_2013-4/Ngcl.png" title="View attachment">Ngcl.png</a><a href="/trac/raw-attachment/wiki/SND2K/Data/RHO_2013-4/Ngcl.png" class="trac-rawlink" title="Download">​</a> (<span title="29032 bytes">28.4 KB</span>) - added by <span class="trac-author">Leonid Kardapoltsev</span> <a class="timeline" href="/trac/timeline?from=2021-03-08T14%3A46%3A55%2B07%3A00&amp;precision=second" title="See timeline 4 years ago">on Mar 8, 2021 at 2:46:55 PM</a>.
+            </li>
+          </ul>
+          <p>
+            Download all attachments as: <a rel="nofollow" href="/trac/zip-attachment/wiki/SND2K/Data/RHO_2013-4/">.zip</a>
+          </p>
+        </div>
+    </div>
+
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="https://trac.edgewall.org/"><img src="/trac/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/trac/about"><strong>Trac 1.2.5</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">Visit the Trac open source project at<br /><a href="http://trac.edgewall.org/">http://trac.edgewall.org/</a></p>
+    </div>
+  </body>
+</html>
